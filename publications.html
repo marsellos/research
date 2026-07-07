@@ -249,8 +249,17 @@ ul.task-list li input[type="checkbox"] {
   }
 
   function matches(p) {
-    if (state.type !== "all" && p.section !== state.type) return false;
-    if (state.students !== "all" && p.students !== state.students) return false;
+    if (state.type !== "all") {
+      // "conference" is the combined view behind the stat card / deep links
+      if (state.type === "conference") {
+        if (p.section !== "proceedings" && p.section !== "abstract") return false;
+      } else if (p.section !== state.type) return false;
+    }
+    if (state.students !== "all") {
+      if (state.students === "any") {
+        if (!p.students) return false;
+      } else if (p.students !== state.students) return false;
+    }
     if (state.area !== "all" && !p.areas.includes(state.area)) return false;
     if (state.year !== "all" && String(p.year) !== state.year) return false;
     if (state.q) {
@@ -271,14 +280,31 @@ ul.task-list li input[type="checkbox"] {
     ALL = pubs;
 
     const stats = [
-      [pubs.filter(p => p.section === "journal").length, "Peer-reviewed journal articles"],
-      [pubs.filter(p => p.section === "proceedings" || p.section === "abstract").length, "Conference presentations"],
-      [pubs.filter(p => p.students === "university").length, "Co-authored with university students"],
-      [pubs.filter(p => p.students === "hs").length, "High school research presentations"]
+      [pubs.filter(p => p.section === "journal").length, "Peer-reviewed journal articles", "type", "journal"],
+      [pubs.filter(p => p.section === "proceedings" || p.section === "abstract").length, "Conference presentations", "type", "conference"],
+      [pubs.filter(p => p.students === "university").length, "Co-authored with university students", "students", "university"],
+      [pubs.filter(p => p.students === "hs").length, "High school research presentations", "students", "hs"]
     ];
-    document.getElementById("pub-stats").innerHTML = stats.map(([n, label]) =>
-      `<div class="g-col-6 g-col-md-3"><div class="stat-tile"><div class="stat-number">${n}</div><div class="stat-label">${label}</div></div></div>`
+    document.getElementById("pub-stats").innerHTML = stats.map(([n, label, key, val]) =>
+      `<div class="g-col-6 g-col-md-3"><a class="stat-link" href="?${key}=${val}" data-key="${key}" data-val="${val}" title="Show these publications"><div class="stat-tile"><div class="stat-number">${n}</div><div class="stat-label">${label}</div></div></a></div>`
     ).join("");
+
+    // Clicking a stat card applies exactly the filter it counts (clearing
+    // the others) and jumps to the list — no page reload.
+    document.querySelectorAll("#pub-stats a.stat-link").forEach(a =>
+      a.addEventListener("click", e => {
+        e.preventDefault();
+        state.type = "all"; state.students = "all"; state.area = "all";
+        state.year = "all"; state.q = "";
+        state[a.dataset.key] = a.dataset.val;
+        document.getElementById("f-search").value = "";
+        buttonGroup("f-type", TYPES, "type");
+        buttonGroup("f-students", STUDENTS, "students");
+        document.getElementById("f-area").value = "all";
+        document.getElementById("f-year").value = "all";
+        apply();
+        document.querySelector(".filter-bar").scrollIntoView({ behavior: "smooth" });
+      }));
 
     buttonGroup("f-type", TYPES, "type");
     buttonGroup("f-students", STUDENTS, "students");
