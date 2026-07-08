@@ -168,6 +168,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with <strong>university students</strong> and <strong>high school students</strong> are badged — mentored research is the core of this research group. Where available, each entry links to the <strong>DOI</strong> and to local copies of the <strong>paper</strong>, <strong>abstract</strong>, <strong>poster</strong>, or <strong>presentation</strong>.</p>
+<div class="pub-total-banner" id="pub-total"></div>
+
 <div class="grid mb-4" style="gap:1rem" id="pub-stats"></div>
 
 <div class="filter-bar">
@@ -278,6 +280,16 @@ ul.task-list li input[type="checkbox"] {
 
   loadPubs().then(pubs => {
     ALL = pubs;
+
+    const yrs = pubs.map(p => p.year).filter(Boolean);
+    const span = yrs.length ? `${Math.min(...yrs)}–${Math.max(...yrs)}` : "";
+    document.getElementById("pub-total").innerHTML =
+      `<div class="pub-total-number">${pubs.length}</div>` +
+      `<div class="pub-total-text">` +
+      `<div class="pub-total-head">publications &amp; presentations</div>` +
+      `<div class="pub-total-sub">Peer-reviewed journal articles, conference papers &amp; abstracts, ` +
+      `book chapters, theses, and mentored high-school &amp; university student research` +
+      (span ? ` · ${span}` : "") + `</div></div>`;
 
     const stats = [
       [pubs.filter(p => p.section === "journal").length, "Peer-reviewed journal articles", "type", "journal"],
