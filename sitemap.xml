@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://marsellos.github.io/research/index.html</loc>
-    <lastmod>2026-07-07T10:21:38.072Z</lastmod>
+    <lastmod>2026-07-09T14:18:39.696Z</lastmod>
   </url>
   <url>
-    <loc>https://marsellos.github.io/research/research-university.html</loc>
-    <lastmod>2026-07-07T07:11:20.235Z</lastmod>
+    <loc>https://marsellos.github.io/research/research-highschool.html</loc>
+    <lastmod>2026-07-09T14:19:03.523Z</lastmod>
   </url>
   <url>
     <loc>https://marsellos.github.io/research/publications.html</loc>
@@ -14,18 +14,18 @@
   </url>
   <url>
     <loc>https://marsellos.github.io/research/about.html</loc>
-    <lastmod>2026-07-07T07:12:30.605Z</lastmod>
+    <lastmod>2026-07-09T14:24:15.021Z</lastmod>
   </url>
   <url>
     <loc>https://marsellos.github.io/research/book.html</loc>
     <lastmod>2026-07-07T07:19:37.644Z</lastmod>
   </url>
   <url>
-    <loc>https://marsellos.github.io/research/research-highschool.html</loc>
-    <lastmod>2026-07-07T07:10:57.117Z</lastmod>
-  </url>
-  <url>
     <loc>https://marsellos.github.io/research/research.html</loc>
     <lastmod>2026-07-07T07:10:37.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marsellos.github.io/research/research-university.html</loc>
+    <lastmod>2026-07-09T14:19:01.003Z</lastmod>
   </url>
 </urlset>
