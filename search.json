@@ -32,14 +32,14 @@
     "href": "research-highschool.html",
     "title": "Research with High School Students",
     "section": "",
-    "text": "With a high school researcher at the students' conference, in front\n  of EEG seizure-detection and sunspot-analysis posters.\nHigh school students in my group do real research — not simulations of it. Through the Hofstra University Summer Science Research Program (HUSSRP), students learn R programming from scratch, work with real scientific data, and carry a project from question to conference poster in a single summer, presenting at the Hofstra Students Conference each October."
+    "text": "With a high school researcher at the students' conference, in front\n  of EEG seizure-detection and sunspot-analysis posters.\nHigh school students in my group do real research — not simulations of it. Through the Hofstra University Summer Science Research Program (HUSSRP), students learn R programming from scratch, work with real scientific data, and carry a project from question to conference poster in a single summer, presenting at a Hofstra University conference poster session."
   },
   {
     "objectID": "research-highschool.html#how-the-program-works",
     "href": "research-highschool.html#how-the-program-works",
     "title": "Research with High School Students",
     "section": "How the program works",
-    "text": "How the program works\nStudents meet online through the summer (typically Monday–Wednesday, 4 hours/week in July, with flexible schedules before and after), learning data analysis in R while developing an individual research topic with real datasets: EEG recordings from pediatric seizure patients, continuous GPS displacement, sunspot records, sea-level and groundwater time series, and more. The program culminates in a printed 3 ft × 4 ft research poster presented at Hofstra University in October.\nThe methodology students learn mirrors the group’s research toolkit — time-series decomposition, wavelet analysis, artificial neural networks — and the beginner-first approach of my book R for Earth and Sustainability Data Analytics."
+    "text": "How the program works\nStudents meet online through the summer (typically Monday–Wednesday, 4 hours/week in July, with flexible schedules before and after), learning data analysis in R while developing an individual research topic with real datasets: EEG recordings from pediatric seizure patients, continuous GPS displacement, sunspot records, sea-level and groundwater time series, and more. The program culminates in a printed research poster presented at Hofstra University.\nThe methodology students learn mirrors the group’s research toolkit — time-series decomposition, wavelet analysis, artificial neural networks — and the beginner-first approach of my book R for Earth and Sustainability Data Analytics."
   },
   {
     "objectID": "research-highschool.html#research-highlight",

@@ -2846,6 +2846,101 @@
  {
   "id": "hs-1",
   "section": "hs",
+  "citation_html": "Khan, A., &amp; <strong>Marsellos</strong>, A. E. (2026). Split by patient, not by window: An honest test of a heart rate variability random forest for arrhythmia screening in R. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Akif_Khan_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "ai-ml",
+   "biomedical"
+  ]
+ },
+ {
+  "id": "hs-2",
+  "section": "hs",
+  "citation_html": "Liu, C., &amp; <strong>Marsellos</strong>, A. E. (2026). An island reshaped from within: 34 years of coastal and inland water change on Belitung Island, Indonesia, measured in R. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Chace_Liu_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "geospatial"
+  ]
+ },
+ {
+  "id": "hs-3",
+  "section": "hs",
+  "citation_html": "Liao, C., &amp; <strong>Marsellos</strong>, A. E. (2026). Tracking EEG band power through general anesthesia in R: Slow waves rise gradually and before the recorded loss of consciousness. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Chloe_Liao_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "biomedical"
+  ]
+ },
+ {
+  "id": "hs-4",
+  "section": "hs",
+  "citation_html": "Demma, G., &amp; <strong>Marsellos</strong>, A. E. (2026). Mapping where Rumson floods: A sea-level-rise simulation of the Navesink and Shrewsbury watershed. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Giuliana_Demma_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "geospatial",
+   "water"
+  ]
+ },
+ {
+  "id": "hs-5",
+  "section": "hs",
+  "citation_html": "Amin, R., &amp; <strong>Marsellos</strong>, A. E. (2026). Comparing three GPS noise filters: Which best recovers a clean signal buried in noise. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Riyaan_Amin_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "tectonics"
+  ]
+ },
+ {
+  "id": "hs-6",
+  "section": "hs",
+  "citation_html": "Johari, S., &amp; <strong>Marsellos</strong>, A. E. (2026). Do solar cycles drive earthquakes? A cross-correlation test in R of sunspot number against the global earthquake catalogue. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Sofia_Johari_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "tectonics",
+   "climate"
+  ]
+ },
+ {
+  "id": "hs-7",
+  "section": "hs",
+  "citation_html": "Lian, T., &amp; <strong>Marsellos</strong>, A. E. (2026). Resting-state EEG markers of Alzheimer’s disease: Spectral power and signal complexity. Hofstra University Summer Science Research Program. Poster Session at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Tiger_Lian_2026.pdf"
+  },
+  "students": "hs",
+  "areas": [
+   "time-series",
+   "biomedical"
+  ]
+ },
+ {
+  "id": "hs-8",
+  "section": "hs",
   "citation_html": "Aashrita, K., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating Earth orientation parameters as predictors of global temperature anomalies. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
   "links": {
@@ -2857,7 +2952,7 @@
   ]
  },
  {
-  "id": "hs-2",
+  "id": "hs-9",
   "section": "hs",
   "citation_html": "Arun, A., &amp; <strong>Marsellos</strong>, A. E. (2025). Linking climate drivers to United States temperature variability: Spectral, wavelet, and ANN-based forecasting approaches. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2873,7 +2968,7 @@
   ]
  },
  {
-  "id": "hs-3",
+  "id": "hs-10",
   "section": "hs",
   "citation_html": "Khan, A., &amp; <strong>Marsellos</strong>, A. E. (2025). EEG signal filtering and spectral analysis for seizure detection. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2887,7 +2982,7 @@
   ]
  },
  {
-  "id": "hs-4",
+  "id": "hs-11",
   "section": "hs",
   "citation_html": "Squiciarino, A., &amp; <strong>Marsellos</strong>, A. E. (2025). Mapping the mind: Visualizing cognitive brain dynamics with spectral entropy topomaps in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2902,7 +2997,7 @@
   ]
  },
  {
-  "id": "hs-5",
+  "id": "hs-12",
   "section": "hs",
   "citation_html": "Sirinchenko, D., &amp; <strong>Marsellos</strong>, A. E. (2025). Assessing vertical ground motion along the New Jersey shoreline with continuous GPS. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2911,11 +3006,12 @@
   },
   "students": "hs",
   "areas": [
+   "geospatial",
    "tectonics"
   ]
  },
  {
-  "id": "hs-6",
+  "id": "hs-13",
   "section": "hs",
   "citation_html": "Chen, D., &amp; <strong>Marsellos</strong>, A. E. (2025). Analyzing sunspot cycles using wavelet and ANN forecasting: A preliminary step towards predicting groundwater level fluctuations. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2931,7 +3027,7 @@
   ]
  },
  {
-  "id": "hs-7",
+  "id": "hs-14",
   "section": "hs",
   "citation_html": "Gao, E., &amp; <strong>Marsellos</strong>, A. E. (2025). Signal detection of solar maxima using wavelet-enhanced derivative analysis in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2945,7 +3041,7 @@
   ]
  },
  {
-  "id": "hs-8",
+  "id": "hs-15",
   "section": "hs",
   "citation_html": "Shen, E., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating EEG signals of pediatric patients with intractable seizures using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2958,7 +3054,7 @@
   ]
  },
  {
-  "id": "hs-9",
+  "id": "hs-16",
   "section": "hs",
   "citation_html": "Kim, H., &amp; <strong>Marsellos</strong>, A. E. (2025). Spatial analysis of soil erosion from mechanized farming in Ghana’s rice-growing regions. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2971,7 +3067,7 @@
   ]
  },
  {
-  "id": "hs-10",
+  "id": "hs-17",
   "section": "hs",
   "citation_html": "Wang, J., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating groundwater and landslides relationship using R: A study on Long Island, New York North Shore. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2982,7 +3078,7 @@
   ]
  },
  {
-  "id": "hs-11",
+  "id": "hs-18",
   "section": "hs",
   "citation_html": "Li, J., &amp; <strong>Marsellos</strong>, A. E. (2025). Sea level rise and flood risk in Long Island, New York. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2993,7 +3089,7 @@
   ]
  },
  {
-  "id": "hs-12",
+  "id": "hs-19",
   "section": "hs",
   "citation_html": "Kim, M., &amp; <strong>Marsellos</strong>, A. E. (2025). Developing an ANN-powered R Shiny application for real-time seizure prediction from EEG data. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3007,7 +3103,7 @@
   ]
  },
  {
-  "id": "hs-13",
+  "id": "hs-20",
   "section": "hs",
   "citation_html": "Kalatheeswaran, N., &amp; <strong>Marsellos</strong>, A. E. (2025). Geostatistical analysis of post-seismic displacement along the Ramapo fault using continuous GPS displacement rates in New Jersey. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3021,7 +3117,7 @@
   ]
  },
  {
-  "id": "hs-14",
+  "id": "hs-21",
   "section": "hs",
   "citation_html": "Zhu, O., &amp; <strong>Marsellos</strong>, A. E. (2025). Using GIS to explore links between smoking, population density, and lung cancer. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3035,7 +3131,7 @@
   ]
  },
  {
-  "id": "hs-15",
+  "id": "hs-22",
   "section": "hs",
   "citation_html": "Chakrabarti, R., &amp; <strong>Marsellos</strong>, A. E. (2025). Analyzing pediatric EEG signals for seizure-related brain activity using ANN and Random Forest models. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3049,7 +3145,7 @@
   ]
  },
  {
-  "id": "hs-16",
+  "id": "hs-23",
   "section": "hs",
   "citation_html": "Chen, R., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating slope, faults, and landslides relationship using R: A study on Taiwan. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3062,7 +3158,7 @@
   ]
  },
  {
-  "id": "hs-17",
+  "id": "hs-24",
   "section": "hs",
   "citation_html": "Sharma, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating the relationship between focal seizure duration and localization using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3075,7 +3171,7 @@
   ]
  },
  {
-  "id": "hs-18",
+  "id": "hs-25",
   "section": "hs",
   "citation_html": "Pasumarthi, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Filtering electroencephalogram data using R: A study on patients with seizures. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3088,7 +3184,7 @@
   ]
  },
  {
-  "id": "hs-19",
+  "id": "hs-26",
   "section": "hs",
   "citation_html": "Dong, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating Earth’s orientation parameters and global temperature relationship using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3099,7 +3195,7 @@
   ]
  },
  {
-  "id": "hs-20",
+  "id": "hs-27",
   "section": "hs",
   "citation_html": "Johari, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Periodicities in sunspot activity and volcanic eruptions: A wavelet analysis. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3114,7 +3210,7 @@
   ]
  },
  {
-  "id": "hs-21",
+  "id": "hs-28",
   "section": "hs",
   "citation_html": "Jeon, T., &amp; <strong>Marsellos</strong>, A. E. (2025). Predicting temporal lobe seizure onset windows using EEG feature extraction and regional correlation dynamics. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3125,7 +3221,7 @@
   ]
  },
  {
-  "id": "hs-22",
+  "id": "hs-29",
   "section": "hs",
   "citation_html": "Budhani, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Exploring the role of stress in seizure frequency among females: A comparative EEG study. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3138,7 +3234,7 @@
   ]
  },
  {
-  "id": "hs-23",
+  "id": "hs-30",
   "section": "hs",
   "citation_html": "Vedant Balani, <strong>Marsellos</strong> A.E.,(2025). Using Artificial Neural Networks and Kolmogorov-Zurbenko Filtering to Predict Future Sunspot Numbers and Temperatures. ISEF competition. Charles Dugan Long Island Science and Engineering Fair 2025.",
   "year": 2025,
@@ -3151,7 +3247,7 @@
   ]
  },
  {
-  "id": "hs-24",
+  "id": "hs-31",
   "section": "hs",
   "citation_html": "Shariff, Z., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Spatial analysis of strain distribution and displacement in Japan using ArcGIS and R: A case study of the March 11, 2011 earthquake [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3164,7 +3260,7 @@
   ]
  },
  {
-  "id": "hs-25",
+  "id": "hs-32",
   "section": "hs",
   "citation_html": "Balani, V., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Using artificial neural networks and Kolmogorov-Zurbenko filtering to predict future sunspot numbers and temperatures [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3179,7 +3275,7 @@
   ]
  },
  {
-  "id": "hs-26",
+  "id": "hs-33",
   "section": "hs",
   "citation_html": "Keer, N., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Examining seasonality: Signal detection analysis on Bitcoin price and natural phenomena [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3191,7 +3287,7 @@
   ]
  },
  {
-  "id": "hs-27",
+  "id": "hs-34",
   "section": "hs",
   "citation_html": "Mazzoleni, A., Raghavendra Rao, I., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Impact of geomagnetic storms on the U.S. electrical grid (2015–2023) [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3202,7 +3298,7 @@
   ]
  },
  {
-  "id": "hs-28",
+  "id": "hs-35",
   "section": "hs",
   "citation_html": "Lolla, H., Sharma, E., Lin, A., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Identifying and predicting the effect of sunspot numbers on global temperatures and climate change [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3213,7 +3309,7 @@
   ]
  },
  {
-  "id": "hs-29",
+  "id": "hs-36",
   "section": "hs",
   "citation_html": "Linder, E., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Analyzing the unmasking effect in China: Linking temperature, air pollution, and sunspot activity using Python [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3227,7 +3323,7 @@
   ]
  },
  {
-  "id": "hs-30",
+  "id": "hs-37",
   "section": "hs",
   "citation_html": "Sirichenko, D., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Wavelet analysis of GPS data for earthquake prediction in Japan: Investigating long-term patterns and periodicity [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3239,7 +3335,7 @@
   ]
  },
  {
-  "id": "hs-31",
+  "id": "hs-38",
   "section": "hs",
   "citation_html": "Lin, Y., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Projection of the effect of rising temperature caused by climate change on sea level rise on Long Island [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
