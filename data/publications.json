@@ -2,6 +2,38 @@
  {
   "id": "journal-1",
   "section": "journal",
+  "citation_html": "<strong>Marsellos</strong>, A.E., &amp; Yetgin, E. (2026). Conference-driven AI pedagogy in business education: An interdisciplinary cross-institutional teaching model. EDULEARN26 Proceedings, 18th International Conference on Education and New Learning Technologies, IATED, Palma de Mallorca, Spain, 29 June–1 July 2026, Paper 1933. ISBN 978-84-09-88444-5, ISSN 2340-1117.",
+  "year": 2026,
+  "links": {
+   "doi": "https://doi.org/10.21125/edulearn.2026.1933",
+   "abstract": "pdfs/Marsellos_2026b_abstract.pdf"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "business",
+   "education"
+  ]
+ },
+ {
+  "id": "journal-2",
+  "section": "journal",
+  "citation_html": "<strong>Marsellos</strong>, A.E., &amp; Tsakiri, K.G. (2026). Reciprocal AI-enabled community-engaged learning in environmental data analytics. EDULEARN26 Proceedings, 18th International Conference on Education and New Learning Technologies, IATED, Palma de Mallorca, Spain, 29 June–1 July 2026, Paper 1926. ISBN 978-84-09-88444-5, ISSN 2340-1117.",
+  "year": 2026,
+  "links": {
+   "doi": "https://doi.org/10.21125/edulearn.2026.1926",
+   "paper": "pdfs/Marsellos_2026_paper.pdf",
+   "abstract": "pdfs/Marsellos_2026a_abstract.pdf"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "education"
+  ]
+ },
+ {
+  "id": "journal-3",
+  "section": "journal",
   "citation_html": "Al-Saeedi, K., Fish, A., Zhou, D., Tsakiri, K., &amp; <strong>Marsellos</strong>, A. (2026). Multi-Scale Decomposition and Autocorrelation Modeling for Classical and Machine Learning-Based Time Series Forecasting. Mathematics, 14(2), 283.",
   "year": 2026,
   "links": {
@@ -16,7 +48,7 @@
   ]
  },
  {
-  "id": "journal-2",
+  "id": "journal-4",
   "section": "journal",
   "citation_html": "Farmer, E.C., Hecht, D., Bennington, J.B., <strong>Marsellos</strong>, A.E., &amp; Bernhardt, J.E. (2025). GEOTeams: Piloting an innovative multilevel team approach to creating summer research pathways to geoscience. In J.H. MacDonald Jr., R. M. Clary, R. S. Archer &amp; R. L. Broadway (Eds.), GEOPAths — Broadening the Voices in Geosciences: Pathways to Innovative Pedagogy and Professional Development (GSA Special Paper 564). Geological Society of America, 564, p. 1–14.",
   "year": 2025,
@@ -30,7 +62,7 @@
   ]
  },
  {
-  "id": "journal-3",
+  "id": "journal-5",
   "section": "journal",
   "citation_html": "Al-Saeedi, K., Zhou, D., Fish, A., Tsakiri, K., &amp; <strong>Marsellos</strong>, A. (2025). A methodological comparison of forecasting models using KZ decomposition and walk-forward validation. Mathematics, 13(3410).",
   "year": 2025,
@@ -44,7 +76,7 @@
   ]
  },
  {
-  "id": "journal-4",
+  "id": "journal-6",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., Kapetanakis, S. Ptak, N., Renner, F.,, 2024. Enhanced Volcanic Signal Detection in Santorini: Implications for Sustainable Tourism Development. ITISE 2024. (Ref. 2301) Peer-reviewed proceedings at 10th International Conference on Time Series and Forecasting. Gran Canaria Spain, Europe.",
   "year": 2024,
@@ -59,7 +91,7 @@
   ]
  },
  {
-  "id": "journal-5",
+  "id": "journal-7",
   "section": "journal",
   "citation_html": "Tsakiri, K.G. &amp; <strong>Marsellos</strong>, A.E., Ptak, N., Renner, F., 2024. Signal detection in high-noise time series data using R. ITISE 2024. Peer-reviewed (5 reviewers) proceedings at 10th International Conference on Time Series and Forecasting. Gran Canaria Spain, Europe.",
   "year": 2024,
@@ -72,7 +104,7 @@
   ]
  },
  {
-  "id": "journal-6",
+  "id": "journal-8",
   "section": "journal",
   "citation_html": "Goscombe, B., Foster, D. A., Kelsey, D., Wade, B., Gray, D., Mulrooney, L., Jiang, P., Haseler, M., <strong>Marsellos</strong>, A., 2022. Episodic intra-continental reactivation during collapse of a collisional orogen: The Damara Belt, Namibia. Gondwana Research, 109, 285-375.",
   "year": 2022,
@@ -85,7 +117,7 @@
   ]
  },
  {
-  "id": "journal-7",
+  "id": "journal-9",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., Hantzis, K.* 2020. How to remove the seasonal atmospheric effect: An application on a surface volcanic temperature at Nisyros active volcano, Hellenic Volcanic Arc, Journal of Volcanology and Geothermal Research, vol. 407, Dec. 2020, p. 107069.",
   "year": 2020,
@@ -99,7 +131,7 @@
   ]
  },
  {
-  "id": "journal-8",
+  "id": "journal-10",
   "section": "journal",
   "citation_html": "Plitnick, T.A.*, <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2018. Time Series Regression for forecasting flood events in Schenectady, New York, Geosciences. 8(9), doi:10.3390/geosciences8090317.",
   "year": 2018,
@@ -114,7 +146,7 @@
   ]
  },
  {
-  "id": "journal-9",
+  "id": "journal-11",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E, Tsakiri K.G., Kapetanakis S., Kyriakopoulos K., 2018. A Hybrid Model Using Time Series and Markov Chain for the Detection of the Main Periodicities on the Temperature Data in Nisyros Volcano, South Aegean. Geoinfor Geostat: An Overview 6:1. ISSN: 2327-4581, doi: 10.4172/2327-4581.1000177.",
   "year": 2018,
@@ -130,7 +162,7 @@
   ]
  },
  {
-  "id": "journal-10",
+  "id": "journal-12",
   "section": "journal",
   "citation_html": "Tsakiri, K., <strong>Marsellos</strong>, A.E., Kapetanakis, S., 2018. “Artificial Neural Network and Multiple Linear Regression for Flood Prediction in Mohawk River, New York.” Water 10, no. 9: 1158.",
   "year": 2018,
@@ -146,7 +178,7 @@
   ]
  },
  {
-  "id": "journal-11",
+  "id": "journal-13",
   "section": "journal",
   "citation_html": "Goscombe, B., Foster, D.A., Gray, D., Wade, B., <strong>Marsellos</strong>, A.E., Titus, J., 2017. Deformation correlations, stress field rotation and evolution of an orogenic intersection: the Pan-African Kaoko-Damara orogenic junction, Namibia. Journal of Geoscience Frontiers. ISSN: 1674-9871, 8:6, p. 1187-1232.",
   "year": 2017,
@@ -159,7 +191,7 @@
   ]
  },
  {
-  "id": "journal-12",
+  "id": "journal-14",
   "section": "journal",
   "citation_html": "Hardy, L.*, Smith, M., Moles, N., &amp; <strong>Marsellos</strong>, A. (2016). Geochemical and mineralogical controls on the distribution of rare earth elements in the laterites of Serra de Monchique, Portugal. Applied Earth Science (Transactions of the Institutions of Mining and Metallurgy, Section B), 125(2).",
   "year": 2016,
@@ -173,7 +205,7 @@
   ]
  },
  {
-  "id": "journal-13",
+  "id": "journal-15",
   "section": "journal",
   "citation_html": "Pasqualon, N.G. <em>, Santos, K.N.S. </em>, <strong>Marsellos</strong>, A.E., Kyriakopoulos, K., 2016. Implications of petrography and geochemistry of Athinios metamorphic units using PXRF and GIS analyses in Thera (Santorini, Greece). Bulletin of the Geological Society of Greece, [S.l.], v. 50, n. 4, p. 1980-1988, july 2016. ISSN 2529-1718. doi: Available at:",
   "year": 2016,
@@ -189,7 +221,7 @@
   ]
  },
  {
-  "id": "journal-14",
+  "id": "journal-16",
   "section": "journal",
   "citation_html": "Stefanakis, A, Zouzias, D, <strong>Marsellos</strong>, A.E., 2015. Groundwater Pollution: Human and Natural Sources and Risks. 82-102. In book: Environmental Science and Engineering Vol. 4: Water Pollution, Edition: 1st Publisher: Stadium Press LLCEditors: J.N. Govil.",
   "year": 2015,
@@ -202,7 +234,7 @@
   ]
  },
  {
-  "id": "journal-15",
+  "id": "journal-17",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2015. Flooding prediction in a large watershed: An example from Mohawk River in New York. Mohawk Watershed Symposium, March 2015, ISBN: 978-1-939968-05-0, p. 35-38.",
   "year": 2015,
@@ -215,7 +247,7 @@
   ]
  },
  {
-  "id": "journal-16",
+  "id": "journal-18",
   "section": "journal",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Zurbenko, I.G., 2014. An efficient prediction model for water discharge in Schoharie Creek, NY. Vol. 2014, Article ID 284137, Journal of Climatology. doi:10.1155/2014/284137.",
   "year": 2014,
@@ -231,7 +263,7 @@
   ]
  },
  {
-  "id": "journal-17",
+  "id": "journal-19",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Min, K., Foster, D.A., 2014. Rapid Exhumation of High-Pressure Metamorphic Rocks in Kythera-Peloponnese (Greece) revealed by Apatite (U-Th)/He Thermochronology. Journal of Geology. Vol. 122, No. 4, July 2014. p. 381-396.",
   "year": 2014,
@@ -246,7 +278,7 @@
   ]
  },
  {
-  "id": "journal-18",
+  "id": "journal-20",
   "section": "journal",
   "citation_html": "Vogl, J., Min, K., Foster, D.A., Carmenante, A., <strong>Marsellos</strong>, A.E., 2014. Miocene regional hotspot-related exhumation and uplift and superposed extensional faulting in central Idaho: evidence from (U-Th)/He apatite dating. Journal of Lithosphere, v. 6, p. 108-123.",
   "year": 2014,
@@ -261,7 +293,7 @@
   ]
  },
  {
-  "id": "journal-19",
+  "id": "journal-21",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Foster, D. A., Kidd, W.S.F., Garver, J. I., Kyriakopoulos, K., 2013. An application of GIS analysis on structural data from metamorphic rocks in Santorini Island. Hellenic Journal of Geosciences (formerly Annales Geologiques des Pays Helleniques) Hellenic Geological Society, September 2013, Crete, Greece, volume 2013, p. 1-10, ISSN 1105-0004.",
   "year": 2013,
@@ -277,7 +309,7 @@
   ]
  },
  {
-  "id": "journal-20",
+  "id": "journal-22",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., 2013. A LiDAR application for TIN construction and accurate longitudinal profile of the Mohawk river, New York. Proceedings from the Mohawk Symposium 2013, in Schenectady, New York, p. 41-45.",
   "year": 2013,
@@ -291,7 +323,7 @@
   ]
  },
  {
-  "id": "journal-21",
+  "id": "journal-23",
   "section": "journal",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Zurbenko, I.G., 2013. Explanation of the water monitoring time series data in Schoharie Creek, New York. Proceedings from the Mohawk Symposium 2013, in Schenectady, New York, p. 74-75.",
   "year": 2013,
@@ -304,7 +336,7 @@
   ]
  },
  {
-  "id": "journal-22",
+  "id": "journal-24",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Foster, D., Kamenov, G. and Kyriakopoulos, K. 2012. Detrital zircon U-Pb data from the Hellenic south Aegean belts: Constraints on the age and source of the South Aegean basement. In: (Ed.) Emmanuel Skourtsos, and Gordon S. Lister, The Geology of Greece, Journal of the Virtual Explorer, Electronic Edition, ISSN 1441-8142, volume 42, paper 3.",
   "year": 2012,
@@ -319,7 +351,7 @@
   ]
  },
  {
-  "id": "journal-23",
+  "id": "journal-25",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., Garver, J.I., Kyriakopoulos, K.G., 2012. Time of exhumation of HP-rocks and associated detachment fault of Milos Island - Evidence from zircon fission-track thermochronology. Journal of Geochemistry, Mineralogy, and Petrology. Vol. 49, p. 49-64.",
   "year": 2012,
@@ -333,7 +365,7 @@
   ]
  },
  {
-  "id": "journal-24",
+  "id": "journal-26",
   "section": "journal",
   "citation_html": "Foster, J.A. *, <strong>Marsellos</strong>, A.E., Garver, J.I., 2011. Predicting trigger level for ice jam flooding of the lower Mohawk River using LiDAR and GIS. Proceedings from the Mohawk Symposium 2011, in Schenectady, New York, p.13-15.",
   "year": 2011,
@@ -347,7 +379,7 @@
   ]
  },
  {
-  "id": "journal-25",
+  "id": "journal-27",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Garver, J.I., Cockburn, J.M.H., 2010. Flood map and volumetric calculation of the January 25th ice-jam flood using LiDAR and GIS, in Schenectady, NY. Proceedings from the Mohawk Symposium 2010, in Schenectady, New York, p. 23-27.",
   "year": 2010,
@@ -361,13 +393,14 @@
   ]
  },
  {
-  "id": "journal-26",
+  "id": "journal-28",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., Garver, J.I., 2010. Extension and exhumation of the HP/LT rocks in the Hellenic forearc ridge. American Journal of Science, vol. 310, p. 1-36.",
   "year": 2010,
   "links": {
-   "doi": "https://doi.org/10.2475/01.2010.01",
-   "paper": "pdfs/Marsellos_2010c_paper.pdf"
+   "doi": "https://doi.org/10.2138/am.2010.3264",
+   "abstract": "pdfs/Marsellos_2010e.pdf",
+   "paper": "https://www.researchgate.net/profile/John-Garver/publication/250130646_Radiation_damage_and_uranium_concentration_in_zircon_as_assessed_by_Raman_spectroscopy_and_neutron_irradiation/links/02e7e51f06b8b3941a000000/Radiation-damage-and-uranium-concentration-in-zircon-as-assessed-by-Raman-spectroscopy-and-neutron-irradiation.pdf"
   },
   "students": null,
   "areas": [
@@ -375,7 +408,7 @@
   ]
  },
  {
-  "id": "journal-27",
+  "id": "journal-29",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Garver, J.I., Cockburn, J.M.H., Tsakiri, K.G., 2010. Determination of historical channel changes and meander cut-off points using LiDAR and GIS in Schoharie creek, NY. Proceedings from the Mohawk Symposium 2010, in Schenectady, New York, p. 28-33.",
   "year": 2010,
@@ -388,14 +421,13 @@
   ]
  },
  {
-  "id": "journal-28",
+  "id": "journal-30",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Garver, 2010. Radiation damage and uranium concentration in zircon as assessed by Raman spectroscopy and neutron irradiation. American Mineralogist, Aug-Sep. 2010, v. 95, pages 1192-1201.",
   "year": 2010,
   "links": {
    "doi": "https://doi.org/10.2138/am.2010.3264",
-   "abstract": "pdfs/Marsellos_2010e.pdf",
-   "paper": "https://www.researchgate.net/profile/John-Garver/publication/250130646_Radiation_damage_and_uranium_concentration_in_zircon_as_assessed_by_Raman_spectroscopy_and_neutron_irradiation/links/02e7e51f06b8b3941a000000/Radiation-damage-and-uranium-concentration-in-zircon-as-assessed-by-Raman-spectroscopy-and-neutron-irradiation.pdf"
+   "paper": "pdfs/Marsellos_2010e.pdf"
   },
   "students": null,
   "areas": [
@@ -403,7 +435,7 @@
   ]
  },
  {
-  "id": "journal-29",
+  "id": "journal-31",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., Garver, J.I., Kyriakopoulos, K.G., 2010. Exhumation of the Hellenic accretionary prism - evidence from fission-track thermochronology. Hellenic Journal of Geosciences (formerly Annales Geologiques des Pays Helleniques), Hellenic Geological Society of Greece, vol. XLIII, No.1, p. 309-319, ISSN 1105-0004.",
   "year": 2010,
@@ -418,7 +450,7 @@
   ]
  },
  {
-  "id": "journal-30",
+  "id": "journal-32",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Kidd, W.S.F., 2008. Extension and Exhumation of the Hellenic Forearc Ridge in Kythera. J.Geology, vol. 116, p.640-651.",
   "year": 2008,
@@ -432,7 +464,7 @@
   ]
  },
  {
-  "id": "journal-31",
+  "id": "journal-33",
   "section": "journal",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kyriakopoulos, K., 2000. The mineralogical and petrological studies in Kythera Island. Bulletin of Hellenic Speleological Society, Volume XXII, Athens, 1995-2000, p. 203-212.",
   "year": 2000,
@@ -602,9 +634,10 @@
  {
   "id": "proceedings-11",
   "section": "proceedings",
-  "citation_html": "<strong>Marsellos</strong>, A., &amp; Tsakiri, K. (2026). Reciprocal AI-enabled community-engaged learning in environmental data analytics. International Conference on Education and New Learning Technologies (EDULEARN26), Palma de Mallorca, Spain, July.",
+  "citation_html": "<strong>Marsellos</strong>, A.E., &amp; Tsakiri, K.G. (2026). Reciprocal AI-enabled community-engaged learning in environmental data analytics. 18th International Conference on Education and New Learning Technologies (EDULEARN26), Palma de Mallorca, Spain, 29 June–1 July 2026. Published in EDULEARN26 Proceedings, IATED, Paper 1926, ISBN 978-84-09-88444-5, ISSN 2340-1117.",
   "year": 2026,
   "links": {
+   "doi": "https://doi.org/10.21125/edulearn.2026.1926",
    "paper": "pdfs/Marsellos_2026_paper.pdf",
    "abstract": "pdfs/Marsellos_2026a_abstract.pdf"
   },
@@ -617,9 +650,10 @@
  {
   "id": "proceedings-12",
   "section": "proceedings",
-  "citation_html": "<strong>Marsellos</strong>, A., &amp; Yetgin, E. (2026). Conference-driven AI pedagogy in business education [Paper presentation]. International Conference on Education and New Learning Technologies (EDULEARN26), Palma de Mallorca, Spain.",
+  "citation_html": "<strong>Marsellos</strong>, A.E., &amp; Yetgin, E. (2026). Conference-driven AI pedagogy in business education: An interdisciplinary cross-institutional teaching model. 18th International Conference on Education and New Learning Technologies (EDULEARN26), Palma de Mallorca, Spain, 29 June–1 July 2026. Published in EDULEARN26 Proceedings, IATED, Paper 1933, ISBN 978-84-09-88444-5, ISSN 2340-1117.",
   "year": 2026,
   "links": {
+   "doi": "https://doi.org/10.21125/edulearn.2026.1933",
    "abstract": "pdfs/Marsellos_2026b_abstract.pdf"
   },
   "students": null,
@@ -632,18 +666,6 @@
  {
   "id": "proceedings-13",
   "section": "proceedings",
-  "citation_html": "Tsakiri, K., &amp; Yetgin, E. (2026). Innovating analytics education: An industry-based case study of AI integration into a capstone course [Paper presentation]. International Conference on Education and New Learning Technologies (EDULEARN26), Palma de Mallorca, Spain.",
-  "year": 2026,
-  "links": {},
-  "students": null,
-  "areas": [
-   "ai-ml",
-   "education"
-  ]
- },
- {
-  "id": "proceedings-14",
-  "section": "proceedings",
   "citation_html": "Lawlor, J, <strong>Marsellos</strong>, A.E., 2026. A GIS-Based Framework for Mapping Peak PM-10 Intensity and Recovery Dynamics During Extreme Dust Events: Implications for Urban Risk and Preparedness. Geological Society of America, 2026 Rocky Mountain Section Meeting (student withdrew submission due to high cost travel), 18-20 May,",
   "year": 2026,
   "links": {},
@@ -653,7 +675,7 @@
   ]
  },
  {
-  "id": "proceedings-15",
+  "id": "proceedings-14",
   "section": "proceedings",
   "citation_html": "Blankenbiller, M., Cascone, R., Dwyer, K., <strong>Marsellos</strong>, A.E., Yetgin, E., 2026. Evaluating and Mitigating Bias in Spotify’s Recommendation System: An AI-Driven Approach Using Random Forest and Cluster Analysis. 13th Annual NJBDA Symposium, New Jersey Big Data Alliance, Glassboro, NJ, May 2026.",
   "year": 2026,
@@ -667,7 +689,7 @@
   ]
  },
  {
-  "id": "proceedings-16",
+  "id": "proceedings-15",
   "section": "proceedings",
   "citation_html": "Buchanan, K., Kirkpatrick, S., Stoeckel, F., <strong>Marsellos</strong>, A.E., Yetgin, E., 2026. Using Artificial Intelligence to Identify Key Performance Drivers in Major League Baseball. 13th Annual NJBDA Symposium, New Jersey Big Data Alliance, Glassboro, NJ, May 2026.",
   "year": 2026,
@@ -682,7 +704,7 @@
   ]
  },
  {
-  "id": "proceedings-17",
+  "id": "proceedings-16",
   "section": "proceedings",
   "citation_html": "Bachetta, D., Lockhart, C., McCall Jr, P., <strong>Marsellos</strong>, A.E., Yetgin, E., 2026. Forecasting Film Industry Growth: Economic Impact and AI-Driven Decision Support in New Jersey. 13th Annual NJBDA Symposium, New Jersey Big Data Alliance, Glassboro, NJ, May 2026.",
   "year": 2026,
@@ -697,7 +719,7 @@
   ]
  },
  {
-  "id": "proceedings-18",
+  "id": "proceedings-17",
   "section": "proceedings",
   "citation_html": "DeSilva,A., Burgos, J., Wagner, J., <strong>Marsellos</strong>, A.E., Yetgin, E., 2026. AI-Driven Analysis of Global Emissions: Insights and Ethical Limits for Sustainable Decision-Making. 13th Annual NJBDA Symposium, New Jersey Big Data Alliance, Glassboro, NJ, May 2026.",
   "year": 2026,
@@ -711,7 +733,7 @@
   ]
  },
  {
-  "id": "proceedings-19",
+  "id": "proceedings-18",
   "section": "proceedings",
   "citation_html": "Boddu, D., <strong>Marsellos</strong>, A.E., 2026. Underrepresentation of Urban Flood Events in Police Dispatch Data and Limitations of AI-Driven Hazard Detection: Case Studies of NYC Floods (2025). Hofstra University Undergraduate Research Day, May 2026.",
   "year": 2026,
@@ -726,7 +748,7 @@
   ]
  },
  {
-  "id": "proceedings-20",
+  "id": "proceedings-19",
   "section": "proceedings",
   "citation_html": "Lawlor, J., <strong>Marsellos</strong>, A.E., 2026. An Approach to Assessing Shoreline Dynamics on Fire Island Using Multi-Sensor Satellite Imagery (2005–2024). 33rd Annual Conference on the Geology of Long Island and Metropolitan New York. April 2026. Stony Brook University.",
   "year": 2026,
@@ -737,7 +759,7 @@
   ]
  },
  {
-  "id": "proceedings-21",
+  "id": "proceedings-20",
   "section": "proceedings",
   "citation_html": "Izaguirre Cortez, B., Rezki, A., Najarro Lima, M., <strong>Marsellos</strong>, A.E., 2026. A.I., Machine Learning, and Ethical Decision-Making in Sustainable Infrastructure: A Hurricane Sandy Modeling Perspective. 33rd Annual Conference on the Geology of Long Island and Metropolitan New York. April 2026. Stony Brook University.",
   "year": 2026,
@@ -754,7 +776,7 @@
   ]
  },
  {
-  "id": "proceedings-22",
+  "id": "proceedings-21",
   "section": "proceedings",
   "citation_html": "Persaud, D., Moore, O., Mercaldo, D., <strong>Marsellos</strong>, A.E., 2026. Integrating GIS, R, and a Digital Sewage Capacity Model for Flood Reconstruction and Simulation: Insights from the Brooklyn October 2025 Flood. 33rd Annual Conference on the Geology of Long Island and Metropolitan New York. April 2026. Stony Brook University.",
   "year": 2026,
@@ -769,7 +791,7 @@
   ]
  },
  {
-  "id": "proceedings-23",
+  "id": "proceedings-22",
   "section": "proceedings",
   "citation_html": "Colucci, D., Schwartz, J., Singh, I., <strong>Marsellos</strong>, A.E., 2026. A Microscopy-Based Approach to Characterizing Particulate Contaminants in Snowfall on Suburban Long Island, New York. 33rd Annual Conference on the Geology of Long Island and Metropolitan New York. April 2026. Stony Brook University.",
   "year": 2026,
@@ -784,7 +806,7 @@
   ]
  },
  {
-  "id": "proceedings-24",
+  "id": "proceedings-23",
   "section": "proceedings",
   "citation_html": "Carvan, S.C., Carvan, Z.C., <strong>Marsellos</strong>, A.E., 2026. Impacts of Major Storm Flooding on Harbor Water Quality in New York City Using Time Series and Spatial Analysis. 33rd Annual Conference on the Geology of Long Island and Metropolitan New York. April 2026. Stony Brook University.",
   "year": 2026,
@@ -800,7 +822,7 @@
   ]
  },
  {
-  "id": "proceedings-25",
+  "id": "proceedings-24",
   "section": "proceedings",
   "citation_html": "Runkel, M., <strong>Marsellos</strong>, A.E., 2026. GIS-Based Flood Risk Assessment of Fire Island, NY: A LiDAR-Derived DEM Analysis from Robert Moses to Watch Hill. 33rd Annual Conference on the Geology of Long Island and Metropolitan New York. April 2026. Stony Brook University.",
   "year": 2026,
@@ -815,7 +837,7 @@
   ]
  },
  {
-  "id": "proceedings-26",
+  "id": "proceedings-25",
   "section": "proceedings",
   "citation_html": "Cann,I, <strong>Marsellos</strong>, A.E., 2025. Detecting Marine Heatwaves in the North Atlantic: Threshold-Based Analysis of Sea Surface Temperature Variability and Climate Drivers. Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -830,7 +852,7 @@
   ]
  },
  {
-  "id": "proceedings-27",
+  "id": "proceedings-26",
   "section": "proceedings",
   "citation_html": "Rezki, A., Gonzalez, X., <strong>Marsellos</strong>, A.E., 2025. A National Investigation of Recent Tornado Activity: Wavelet Analysis and Forecasting Approaches Using R. Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -844,7 +866,7 @@
   ]
  },
  {
-  "id": "proceedings-28",
+  "id": "proceedings-27",
   "section": "proceedings",
   "citation_html": "Boddu, D., <strong>Marsellos</strong>, A.E., 2025. “Animating Rocks: Using AI to Teach Earth Science to Children Aged 6–9”. Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -858,7 +880,7 @@
   ]
  },
  {
-  "id": "proceedings-29",
+  "id": "proceedings-28",
   "section": "proceedings",
   "citation_html": "Persaud, D., <strong>Marsellos</strong>, A.E., 2025. Spatial Correlation Between Quartz c-Axis Orientation, Strain, and Trace Element Distribution in Metamorphic Quartzites. Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -872,7 +894,7 @@
   ]
  },
  {
-  "id": "proceedings-30",
+  "id": "proceedings-29",
   "section": "proceedings",
   "citation_html": "Colucci, D., <strong>Marsellos</strong>, A.E., 2025. Detrending Solar Activity Using the KZ Filter: Wavelet Analysis of Sunspot Variability (1818-2025). Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -887,7 +909,7 @@
   ]
  },
  {
-  "id": "proceedings-31",
+  "id": "proceedings-30",
   "section": "proceedings",
   "citation_html": "Jones, W., <strong>Marsellos</strong>, A.E., 2025. Advancing Regional Seismic Awareness Through a Real-Time R–GIS Earthquake Monitoring System. Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -901,7 +923,7 @@
   ]
  },
  {
-  "id": "proceedings-32",
+  "id": "proceedings-31",
   "section": "proceedings",
   "citation_html": "Persaud, D., Jones, W., <strong>Marsellos</strong>, A.E., 2025. Comparative Analysis of Radon Concentrations in Soil-Based and Soil-Less Greenhouse Systems. Hofstra Undergraduate Research &amp; Creativity Day, December 2025.",
   "year": 2025,
@@ -912,7 +934,7 @@
   ]
  },
  {
-  "id": "proceedings-33",
+  "id": "proceedings-32",
   "section": "proceedings",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., 2025. Refined Observations on Enhanced Sinusoidal Signal Detection in Extremely Noisy Time Series Using R. Vienna Congress on Mathematical Finance, July 2025, Vienna, Austria.",
   "year": 2025,
@@ -925,7 +947,7 @@
   ]
  },
  {
-  "id": "proceedings-34",
+  "id": "proceedings-33",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2025. A New R Package “sima” for Enhanced Signal Detection in High-Noise Time Series. Vienna Congress on Mathematical Finance, July 2025, Vienna, Austria.",
   "year": 2025,
@@ -936,7 +958,7 @@
   ]
  },
  {
-  "id": "proceedings-35",
+  "id": "proceedings-34",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Duan L., Tsakiri, K.G., Kapetanakis, S., 2025. A Novel Interdisciplinary Teaching Model for AI-Driven Research in Geoscience and Business. 17th annual International Conference on Education and New Learning Technologies. Palma (Spain) - 30 June - 2nd July 2025.",
   "year": 2025,
@@ -949,7 +971,7 @@
   ]
  },
  {
-  "id": "proceedings-36",
+  "id": "proceedings-35",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E, 2025. AI in Geoscience. Chatgpt EDU projects. AI Symposium at Hofstra University. April, 2025, Science &amp; Innovation Center, Hempstead, NY.",
   "year": 2025,
@@ -960,7 +982,7 @@
   ]
  },
  {
-  "id": "proceedings-37",
+  "id": "proceedings-36",
   "section": "proceedings",
   "citation_html": "Boddu, D., <strong>Marsellos</strong>, A.E., 2025. Effectiveness of Direct vs. Indirect Teaching Methods Supported by AI-Generated Imagery: Fostering Sedimentary Rock Understanding in Children. Undergraduate Hofstra Research Poster day, May 8th 2025, Hofstra University, Hempstead, NY.",
   "year": 2025,
@@ -975,7 +997,7 @@
   ]
  },
  {
-  "id": "proceedings-38",
+  "id": "proceedings-37",
   "section": "proceedings",
   "citation_html": "Lawlor, J., <strong>Marsellos</strong>, A.E., 2025. Quantifying Fire Island, NY Coastal Erosion/Accretion from 2005-2024 With Remote Sensing and Image Classification Techniques. Undergraduate Hofstra Research Poster day, May 8th 2025, Hofstra University, Hempstead, NY.",
   "year": 2025,
@@ -989,7 +1011,7 @@
   ]
  },
  {
-  "id": "proceedings-39",
+  "id": "proceedings-38",
   "section": "proceedings",
   "citation_html": "Parag, A. S., Jones, W., Bradley, C., Cann, I., <strong>Marsellos</strong>, A.E. , Tsakiri, K.G., 2025. Wavelet Analysis of Groundwater Level Fluctuations in Long Island and The Metropolitan Area, NY. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
   "year": 2025,
@@ -1005,7 +1027,7 @@
   ]
  },
  {
-  "id": "proceedings-40",
+  "id": "proceedings-39",
   "section": "proceedings",
   "citation_html": "Hubbs, D., Gonzalez, X., Rezki, A., Tecusan, K., <strong>Marsellos</strong>, A.E., 2025. A Preliminary Approach to Investigate Recent Increases in New York Tornado Activity: A Wavelet Analysis and Forecasting Approach using R. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
   "year": 2025,
@@ -1020,7 +1042,7 @@
   ]
  },
  {
-  "id": "proceedings-41",
+  "id": "proceedings-40",
   "section": "proceedings",
   "citation_html": "Jones, W., <strong>Marsellos</strong>, A.E., 2025. A Live R-GIS Platform for Local Earthquake Monitoring in the New York Region: Strengthening Public Awareness of Low-Magnitude Seismic Events. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
   "year": 2025,
@@ -1034,7 +1056,7 @@
   ]
  },
  {
-  "id": "proceedings-42",
+  "id": "proceedings-41",
   "section": "proceedings",
   "citation_html": "Colucci, D., <strong>Marsellos</strong>, A.E., 2025. Investigation of the Influence of Sunspot Cycles on Temperature Variability in New York City (1948–Present): A Preliminary Wavelet Analysis Approach. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
   "year": 2025,
@@ -1049,7 +1071,7 @@
   ]
  },
  {
-  "id": "proceedings-43",
+  "id": "proceedings-42",
   "section": "proceedings",
   "citation_html": "Parag, A., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2025. Geostatistic Analysis of Long-Term Subsidence Effects on Isostasy of Long Island Using Continuous GPS Displacement Rates Using R. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
   "year": 2025,
@@ -1063,7 +1085,7 @@
   ]
  },
  {
-  "id": "proceedings-44",
+  "id": "proceedings-43",
   "section": "proceedings",
   "citation_html": "Jones, W., <strong>Marsellos</strong>, A.E., 2025. Developing a live R-GIS platform for earthquake monitoring in New York: Enhancing public awareness of low-magnitude seismic events. Geological Society of America Abstracts with Programs. Vol. 57, No. 3, doi: 10.1130/abs/2025NE-407847.",
   "year": 2025,
@@ -1078,7 +1100,7 @@
   ]
  },
  {
-  "id": "proceedings-45",
+  "id": "proceedings-44",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., Kapetanakis, S. Ptak, N., Renner, F., 2024. Enhanced Volcanic Signal Detection in Santorini: Implications for Sustainable Tourism Development. ITISE 2024. (Ref. 2301) Peer-reviewed proceedings at 10th International Conference on Time Series and Forecasting. Gran Canaria Spain, Europe.",
   "year": 2024,
@@ -1093,7 +1115,7 @@
   ]
  },
  {
-  "id": "proceedings-46",
+  "id": "proceedings-45",
   "section": "proceedings",
   "citation_html": "Tsakiri, K.G. &amp; <strong>Marsellos</strong>, A.E., Ptak, N., Renner, F., 2024. Signal detection in high-noise time series data using R. ITISE 2024. Peer-reviewed (5 reviewers) proceedings at 10th International Conference on Time Series and Forecasting. Gran Canaria Spain, Europe.",
   "year": 2024,
@@ -1106,7 +1128,7 @@
   ]
  },
  {
-  "id": "proceedings-47",
+  "id": "proceedings-46",
   "section": "proceedings",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., 2024. Noise Removal and Frequency Detection of Groundwater Levels Using R: An approach to Identify Underground Erosion. International Conference on Natural Science and Environment, Rome, Italy, 25th-26th June, 2024.",
   "year": 2024,
@@ -1117,7 +1139,7 @@
   ]
  },
  {
-  "id": "proceedings-48",
+  "id": "proceedings-47",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri K.G., Renner, F., Ptak, N., 2024. Drone-Assisted Thermal Mapping of Fumaroles for Sustainable Farming on Active Volcanoes. International Conference on Natural Science and Environment, Rome, Italy, 25th-26th June, 2024.",
   "year": 2024,
@@ -1129,7 +1151,7 @@
   ]
  },
  {
-  "id": "proceedings-49",
+  "id": "proceedings-48",
   "section": "proceedings",
   "citation_html": "Lawlor, J., Jones, W., Tecusan, K., <strong>Marsellos</strong>, A.E., 2024. Assessing Future Flood Risks: A GIS Simulation of Brooklyn’s September 2023 Event with LiDAR Data. 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p.1-11.",
   "year": 2024,
@@ -1143,7 +1165,7 @@
   ]
  },
  {
-  "id": "proceedings-50",
+  "id": "proceedings-49",
   "section": "proceedings",
   "citation_html": "Gonzalez, X., Hubbs, D., Dailey, S., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2024. Exploring Climate Change Effects on Sinkhole Formation: Long-Term Temperature Analysis in Long Island, NY (1948-2024). 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p.1-6.",
   "year": 2024,
@@ -1158,7 +1180,7 @@
   ]
  },
  {
-  "id": "proceedings-51",
+  "id": "proceedings-50",
   "section": "proceedings",
   "citation_html": "Badger, T. , Parag, A. , Pelletier, A. , DeRocchis, S. , <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2024. Investigating groundwater and landslides relationship using R: A study on Long Island’s North Shore. 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p.1-11.",
   "year": 2024,
@@ -1172,7 +1194,7 @@
   ]
  },
  {
-  "id": "proceedings-52",
+  "id": "proceedings-51",
   "section": "proceedings",
   "citation_html": "Hope, J., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2024. High-frequency of groundwater level fluctuations, underground erosion, potential sinkhole occurrences across Long Island, NY. 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p.1-8.",
   "year": 2024,
@@ -1187,7 +1209,7 @@
   ]
  },
  {
-  "id": "proceedings-53",
+  "id": "proceedings-52",
   "section": "proceedings",
   "citation_html": "Appel, C., Rahman, M. M., Boddu, D., <strong>Marsellos</strong>, A.E., 2024. Comparing the Effects of Coastal Erosion on Unprotected vs. Protected Shorelines Using GIS and 2011/2014 LiDAR Data. 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p.1-10.",
   "year": 2024,
@@ -1201,7 +1223,7 @@
   ]
  },
  {
-  "id": "proceedings-54",
+  "id": "proceedings-53",
   "section": "proceedings",
   "citation_html": "Hope, J., Hubbs, D., Tsiouris, E., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., Kyriakopoulos, K. 2023. 2019-2023 volcanic temperature monitoring using ground thermometers and drone thermal scanning: an application on Hellenic volcanoes. Hofstra University students conference, October 2023.",
   "year": 2023,
@@ -1213,7 +1235,7 @@
   ]
  },
  {
-  "id": "proceedings-55",
+  "id": "proceedings-54",
   "section": "proceedings",
   "citation_html": "Mead, N., Bourgeois, J., Pelletier, A., Badger, T., <strong>Marsellos</strong>, A.E., 2023. Evaluating future flood risks in Rockaway, NY through geomorphological analysis and flood simulations. The 2023 Long Island Natural History Conference. April 28th, Suffolk County Environmental Center, Historic Scully Estate, Islip, NY.",
   "year": 2023,
@@ -1226,7 +1248,7 @@
   ]
  },
  {
-  "id": "proceedings-56",
+  "id": "proceedings-55",
   "section": "proceedings",
   "citation_html": "Hope, J., Varnum, G., Morrison-John, M., VanDerVegt, M., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2023. An application of GIS and time series analysis to investigate the impacts of COVID-19 on groundwater trend fluctuations caused by manufacturing sites and residential living on Long Island, NY. The 2023 Long Island Natural History Conference. April 28th, Suffolk County Environmental Center, Historic Scully Estate, Islip, NY.",
   "year": 2023,
@@ -1241,7 +1263,7 @@
   ]
  },
  {
-  "id": "proceedings-57",
+  "id": "proceedings-56",
   "section": "proceedings",
   "citation_html": "Mead, N., Bourgeois, J., Pelletier, A., Badger, T., <strong>Marsellos</strong>, A.E., 2023. Assessing future flood risks in Rockaway, NY: A geomorphological analysis using GIS and LiDAR techniques. 30th Conference on the Geology of Long Island and Metropolitan New York, April 2023.",
   "year": 2023,
@@ -1255,7 +1277,7 @@
   ]
  },
  {
-  "id": "proceedings-58",
+  "id": "proceedings-57",
   "section": "proceedings",
   "citation_html": "Hope, J., Varnum, G., Morrison-John, M., VanDerVegt, M., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2023. Investigating the impact of COVID-19 on groundwater supply: A study of manufacturing sites and socioeconomic factors. 30th Conference on the Geology of Long Island and Metropolitan New York, April 2023.",
   "year": 2023,
@@ -1267,7 +1289,7 @@
   ]
  },
  {
-  "id": "proceedings-59",
+  "id": "proceedings-58",
   "section": "proceedings",
   "citation_html": "Hart, W.J., Gogos, K., Gallagher, C., Kaplan, A., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2023. Assessing the impact of COVID-19 on Long Island’s groundwater system: A five-year (2018-2023) analysis of monitoring stations in Nassau and Suffolk counties. 30th Conference on the Geology of Long Island and Metropolitan New York, April 2023.",
   "year": 2023,
@@ -1278,7 +1300,7 @@
   ]
  },
  {
-  "id": "proceedings-60",
+  "id": "proceedings-59",
   "section": "proceedings",
   "citation_html": "Tentomas, G., <strong>Marsellos</strong>, A.E., 2022. Sunspots Number Effect on Earth’s Climate Change and How Water Sustainability is Influenced in Long Island, NY. 29th Conference on the Geology of Long Island and Metropolitan New York, April 2022.",
   "year": 2022,
@@ -1292,7 +1314,7 @@
   ]
  },
  {
-  "id": "proceedings-61",
+  "id": "proceedings-60",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., Tentomas, G., 2022. A Geospatial Analysis of the Sunspots Effect on Groundwater Levels in Long Island NY during 2002-2021. 29th Conference on the Geology of Long Island and Metropolitan New York, April 2022.",
   "year": 2022,
@@ -1308,7 +1330,7 @@
   ]
  },
  {
-  "id": "proceedings-62",
+  "id": "proceedings-61",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Bourgeois, J., Mead N., Achek, M., Tentomas, G., Tsakiri, K.G., Kyriakopoulos, K. 2023. Detection of volcanic surface temperature anomalies using drone thermal scanning: An application on Hellenic Volcanoes. Hofstra University students conference, October 2023.",
   "year": 2023,
@@ -1323,7 +1345,7 @@
   ]
  },
  {
-  "id": "proceedings-63",
+  "id": "proceedings-62",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Bourgeois, J., Mead N., Achek, M., Tentomas, G., Tsakiri, K.G., Kyriakopoulos, K. 2023. Detection of volcanic surface temperature anomalies using drone thermal scanning: An application on the Hellenic Volcano of Nisyros. ICEG2023-419. International Congress on Environmental Geotechnics, Crete, Greece, 25-28 June.",
   "year": 2023,
@@ -1338,7 +1360,7 @@
   ]
  },
  {
-  "id": "proceedings-64",
+  "id": "proceedings-63",
   "section": "proceedings",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Kyriakopoulos, K., 2023. Time series analysis of volcanic activity on an active European volcanic island: Enhancing a sustainable tourism and business resilience. ICEG2023-418. International Congress on Environmental Geotechnics, Crete, Greece, 25-28 June.",
   "year": 2023,
@@ -1353,7 +1375,7 @@
   ]
  },
  {
-  "id": "proceedings-65",
+  "id": "proceedings-64",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2021. Long-term solar impact on groundwater in Long Island, New York. International Symposium of Forecasting, June 27-30, virtual.",
   "year": 2021,
@@ -1366,7 +1388,7 @@
   ]
  },
  {
-  "id": "proceedings-66",
+  "id": "proceedings-65",
   "section": "proceedings",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., 2021. Time series analysis of continuous GPS measurements prior to a volcanic eruption: An example of the Whakaari Volcano in New Zealand. Joint Statistical Meeting (JSM), 7-12 August 2021, Seattle, Washington, virtual.",
   "year": 2021,
@@ -1379,7 +1401,7 @@
   ]
  },
  {
-  "id": "proceedings-67",
+  "id": "proceedings-66",
   "section": "proceedings",
   "citation_html": "Maliszka, M.<em>, Johnson, A.</em>, <strong>Marsellos</strong>, A.E., 2021. Geographical information system (GIS) application on a descriptive soil composition analysis in Nassau County, New York. 28th Conference on the Geology of Long Island and Metropolitan New York, April 2021.",
   "year": 2021,
@@ -1394,7 +1416,7 @@
   ]
  },
  {
-  "id": "proceedings-68",
+  "id": "proceedings-67",
   "section": "proceedings",
   "citation_html": "Moore, M.<em>, Brown, R.</em>, Thomas, M.<em>, Santella, K.</em>, Ballato, B.*, <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2021. What can the local GPS network tell us about the glacial isostatic adjustment of Long Island, NY. 28th Conference on the Geology of Long Island and Metropolitan New York, April 2021.",
   "year": 2021,
@@ -1410,7 +1432,7 @@
   ]
  },
  {
-  "id": "proceedings-69",
+  "id": "proceedings-68",
   "section": "proceedings",
   "citation_html": "Buchbinder, B.<em>, Phan, E.</em>, Renner, F.<em>, Liebowitz, A.</em>, Achek, M.*, <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2021. An approach to study the COVID-19 stay-at-home effect on water consumption in Long Island, NY using time series analysis of groundwater levels. 28th Conference on the Geology of Long Island and Metropolitan New York, April 2021.",
   "year": 2021,
@@ -1426,7 +1448,7 @@
   ]
  },
  {
-  "id": "proceedings-70",
+  "id": "proceedings-69",
   "section": "proceedings",
   "citation_html": "Ptak, N.<em>, Bowen, J.</em>, Reardon, A.*, <strong>Marsellos</strong>, A.E., 2020. Study of the association between hydraulic fracturing and seismic activity in New York State. 27th Conference on the Geology of Long Island and Metropolitan New York, April 2020.",
   "year": 2020,
@@ -1439,7 +1461,7 @@
   ]
  },
  {
-  "id": "proceedings-71",
+  "id": "proceedings-70",
   "section": "proceedings",
   "citation_html": "Tabarus, N.<em>, Tran, J.</em>, Achek, M.*, <strong>Marsellos</strong>, A.E., 2020. Flood rate investigation as a response to climate change: an example on Coney Island. 27th Conference on the Geology of Long Island and Metropolitan New York, April 2020.",
   "year": 2020,
@@ -1453,7 +1475,7 @@
   ]
  },
  {
-  "id": "proceedings-72",
+  "id": "proceedings-71",
   "section": "proceedings",
   "citation_html": "Slovensky, A.* &amp; <strong>Marsellos</strong>, A.E., 2020. A comparison of the USGS N.E.D. and LiDAR data in Long Beach, New York in flood simulations. 27th Conference on the Geology of Long Island and Metropolitan New York, April 2020.",
   "year": 2020,
@@ -1467,7 +1489,7 @@
   ]
  },
  {
-  "id": "proceedings-73",
+  "id": "proceedings-72",
   "section": "proceedings",
   "citation_html": "Dwyer, S.<em>, Lopez-Rodriguez, P.</em>, Parisi, T.*, 2020. Investigating suspended sediments caught behind faucet strainers in Nassau County, Long Island. 27th Conference on the Geology of Long Island and Metropolitan New York, April 2020.",
   "year": 2020,
@@ -1480,7 +1502,7 @@
   ]
  },
  {
-  "id": "proceedings-74",
+  "id": "proceedings-73",
   "section": "proceedings",
   "citation_html": "Maliszka, M.<em>, Johnson, A.</em>, Darnaud, D.*, <strong>Marsellos</strong>, A.E., 2020. An approach to understanding the landscape exposure rate for the Post-Wisconsin late stage glacial melting on Long Island, New York using a glacial withdrawal simulation. 27th Conference on the Geology of Long Island and Metropolitan New York, April 2020.",
   "year": 2020,
@@ -1493,7 +1515,7 @@
   ]
  },
  {
-  "id": "proceedings-75",
+  "id": "proceedings-74",
   "section": "proceedings",
   "citation_html": "Plitnick, T.<em>, Lagatolla, R.</em>, Tsakiri, K.G., Petrocheilos, C., <strong>Marsellos</strong>., A.E., 2019. Time series regression and spectral analysis on nitrate concentrations in Long Island, NY. 26th Conference on the Geology of Long Island and Metropolitan New York. April 13th 2019, p.1-7.",
   "year": 2019,
@@ -1508,7 +1530,7 @@
   ]
  },
  {
-  "id": "proceedings-76",
+  "id": "proceedings-75",
   "section": "proceedings",
   "citation_html": "Tran, J.<em>, Lopez Rodriguez P.</em>, Smith, T.*, Tsakiri, K.G., Petrocheilos, C., <strong>Marsellos</strong>, A.E., 2019. Spectral analysis of the groundwater levels in a suburban versus an urban region. An example from Suffolk and Queens Counties in Long Island, NY. 26th Conference on the Geology of Long Island and Metropolitan New York. April 13th 2019, p.1-4.",
   "year": 2019,
@@ -1523,7 +1545,7 @@
   ]
  },
  {
-  "id": "proceedings-77",
+  "id": "proceedings-76",
   "section": "proceedings",
   "citation_html": "Rienzo, A.<em>, Roscoe, S.L.</em>, Mahoney, L.<em>, Weinstein, P.</em>, Tsakiri, K.G.<em>, Petrocheilos, C.</em>, <strong>Marsellos</strong>, A.E., 2019. Time series analysis comparing climatic averages and the water levels of aquifers in Albany, NY and Queens, NY. 26th Conference on the Geology of Long Island and Metropolitan New York. April 13th 2019, p.1-8.",
   "year": 2019,
@@ -1538,7 +1560,7 @@
   ]
  },
  {
-  "id": "proceedings-78",
+  "id": "proceedings-77",
   "section": "proceedings",
   "citation_html": "Maliszka, M.*, Urrea, C., LoMonaco, D., Taylor, G., <strong>Marsellos</strong>, A.E., 2019. Statistical analysis of public awareness of groundwater contamination from the Northrop Grumman plume affecting select communities in Nassau County, NY. 26th Conference on the Geology of Long Island and Metropolitan New York. April 13th 2019, p.1-4.",
   "year": 2019,
@@ -1553,9 +1575,9 @@
   ]
  },
  {
-  "id": "proceedings-79",
+  "id": "proceedings-78",
   "section": "proceedings",
-  "citation_html": "Pasqualon, N. G., Lima, E. F. , <strong>Marsellos</strong>, A. E. , Santos, K. N. S. , Kyriakopoulos, K., 2018. Morfologia E Petrologia De Lavas Básicas Pré-Erupção Minoica (3,6 Ka) Em Santorini, Grécia: Uma Nova Abordagem. In: VII Simpósio de Vulcanismo e Ambientes Associados (STVs), 2018, Rio de Janeiro. Anais do 49o Congresso Brasileiro de Geologia, 2018.",
+  "citation_html": "Pasqualon, N. G., Lima, E. F. , <strong>Marsellos</strong>, A. E. , Santos, K. N. S. , Kyriakopoulos, K., 2018.Morfologia E Petrologia De Lavas Básicas Pré-Erupção Minoica (3,6 Ka) Em Santorini, Grécia:Uma Nova Abordagem. In: VII Simpósio de Vulcanismo e Ambientes Associados (STVs), 2018, Riode Janeiro. Anais do 49o Congresso Brasileiro de Geologia, 2018.",
   "year": 2018,
   "links": {},
   "students": "university",
@@ -1565,7 +1587,7 @@
   ]
  },
  {
-  "id": "proceedings-80",
+  "id": "proceedings-79",
   "section": "proceedings",
   "citation_html": "Gogos, I.<em>, Shire, K.</em>, Lakeram, S.*, <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2018. Forecasting of water discharge using atmospheric and hydrologic sensors to identify long-term high-risk periods in Herkimer County, NY. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:29-32.",
   "year": 2018,
@@ -1579,7 +1601,7 @@
   ]
  },
  {
-  "id": "proceedings-81",
+  "id": "proceedings-80",
   "section": "proceedings",
   "citation_html": "Lakeram, S.<em>, Plitnick, T.</em>, Chernoff, D.*, <strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2018. Flood forecasting of water discharge at Freeman’s Bridge in Schenectady, New York. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:35-37.",
   "year": 2018,
@@ -1593,7 +1615,7 @@
   ]
  },
  {
-  "id": "proceedings-82",
+  "id": "proceedings-81",
   "section": "proceedings",
   "citation_html": "Mahoney, L.<em>, Roscoe, S.L.</em>, <strong>Marsellos</strong>, A.E., 2018. Reconstruction and flood simulation using GIS and Google Earth to determine the extent and damage of the January 14-15th 2018 ice jams on the Mohawk River in Schenectady, New York. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:39-42.",
   "year": 2018,
@@ -1607,7 +1629,7 @@
   ]
  },
  {
-  "id": "proceedings-83",
+  "id": "proceedings-82",
   "section": "proceedings",
   "citation_html": "Rienzo, A.<em>, Weinstein, P.</em>, Mecca, K.*, <strong>Marsellos</strong>, A.E., 2018. Multiple Flooding locations in Oneida County, NY in 2017: An approach to determine flood vulnerable sites using LiDAR in Geographical Information Systems (GIS) and flood simulations. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:50-53.",
   "year": 2018,
@@ -1621,7 +1643,7 @@
   ]
  },
  {
-  "id": "proceedings-84",
+  "id": "proceedings-83",
   "section": "proceedings",
   "citation_html": "D’Orsa, L. <em>, Nandlall, K. </em>, Sacket, J. *, <strong>Marsellos</strong>, A.E., 2017. Assessing mobile application importance for future flooding using statistical analysis and GIS: a study in Fort Plain, New York. Proceedings from the Mohawk Watershed Symposium 2017, p. 22-26, ISBN: 978-1-939968-07-4.",
   "year": 2017,
@@ -1636,7 +1658,7 @@
   ]
  },
  {
-  "id": "proceedings-85",
+  "id": "proceedings-84",
   "section": "proceedings",
   "citation_html": "Pascucci, T.R. <em>, Chernoff, D.K. </em>, Lakeram, S.R. *, <strong>Marsellos</strong>, A.E., 2017. Statistical analysis of damage to local businesses due to flooding events along the Mohawk River valley in Amsterdam, New York. Proceedings from the Mohawk Watershed Symposium 2017, p. 50-52, ISBN: 978-1-939968-07-4.",
   "year": 2017,
@@ -1651,7 +1673,7 @@
   ]
  },
  {
-  "id": "proceedings-86",
+  "id": "proceedings-85",
   "section": "proceedings",
   "citation_html": "Catalano, A. <em>, Jones, M. </em>, Lovejoy, M. *, <strong>Marsellos</strong>, A.E., 2017. The need for a geohazard app in Herkimer, NY: Government entity preparedness for future flooding. Proceedings from the Mohawk Watershed Symposium 2017, p. 12-15, ISBN: 978-1-939968-07-4.",
   "year": 2017,
@@ -1664,7 +1686,7 @@
   ]
  },
  {
-  "id": "proceedings-87",
+  "id": "proceedings-86",
   "section": "proceedings",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., Kavalieros, A., 2016. Data mining for immediate decision making in flood hazard events: An application at Mohawk watershed in New York. Proceedings from the Mohawk Watershed Symposium 2016, p. 32-33, ISBN: 978-1-939968-07-4.",
   "year": 2016,
@@ -1676,7 +1698,7 @@
   ]
  },
  {
-  "id": "proceedings-88",
+  "id": "proceedings-87",
   "section": "proceedings",
   "citation_html": "Swan, B. <em>, Yankopoulos, A.T. </em>, <strong>Marsellos</strong>, A.E., 2016. Evaluation and Analysis of the Environmental Impact of the June 28, 2013 Flood in Herkimer, New York Using GIS and Other Reconstructive Data. Proceedings from the Mohawk Watershed Symposium 2016, p. 52-54, ISBN: 978-1-939968-07-4.",
   "year": 2016,
@@ -1690,7 +1712,7 @@
   ]
  },
  {
-  "id": "proceedings-89",
+  "id": "proceedings-88",
   "section": "proceedings",
   "citation_html": "Sisti, A<em>, Combs, E. </em>, <strong>Marsellos</strong>, A.E., 2016. Flooding of the Mohawk River at Lock 12 in Fort Hunter, NY, during Hurricane Irene (August 28-29th, 2011). Proceedings from the Mohawk Watershed Symposium 2016, p. 45-47, ISBN: 978-1-939968-07-4.",
   "year": 2016,
@@ -1704,7 +1726,7 @@
   ]
  },
  {
-  "id": "proceedings-90",
+  "id": "proceedings-89",
   "section": "proceedings",
   "citation_html": "Lewis, A. <em>, Weaver, E. </em>, Dorward, E. *, <strong>Marsellos</strong>, A.E., 2016. Two Methods for Determining the Extent of Flooding During Hurricane Irene in Schenectady, NY. Proceedings from the Mohawk Watershed Symposium 2016, p. 21-23, ISBN: 978-1-939968-07-4.",
   "year": 2016,
@@ -1718,7 +1740,7 @@
   ]
  },
  {
-  "id": "proceedings-91",
+  "id": "proceedings-90",
   "section": "proceedings",
   "citation_html": "D’Orsa, L.A. <em>, Langella, J.M. </em>, Sacket, J.P. *, <strong>Marsellos</strong>, A.E., 2016. Fort Plain flood of June 28th, 2013: Determining vulnerable sites to flood risk using LiDAR and GIS. Proceedings from the Mohawk Watershed Symposium 2016, p. 8-10, ISBN: 978-1-939968-07-4.",
   "year": 2016,
@@ -1732,6 +1754,15 @@
  {
   "id": "abstract-1",
   "section": "abstract",
+  "citation_html": "<strong>Marsellos</strong>, A.E., 2026. «Και οι βράχοι γύρισαν πίσω» [The rocks also came back]. Invited public lecture at the one-day event “Εν Φρατζίοις”, 9th anniversary of Panagia Fratziotissa, Fratsia Conference Centre, Fratsia, Kythera, Greece, 5 August 2026. Invited by the Ecclesiastical Councils of Panagia Eleousa and Agios Charalambos of Fratsia, the Local District of Fratsia, the Cultural Association of Fratsia “TA FRATSIA”, and the Institute of Kytheraismos.",
+  "year": 2026,
+  "links": {},
+  "students": null,
+  "areas": []
+ },
+ {
+  "id": "abstract-2",
+  "section": "abstract",
   "citation_html": "Farmer, E. C., Bennington, J. B., <strong>Marsellos</strong>, A.E., Bernhardt, J. E., Bennington, G. K., and Hecht, D. (2024). New Survey Data Summarizes Positive Impact of “GEOTeams” Program. Poster presented at the AGU Fall Meeting, Washington, D.C., December 9–13, 2024. Abstract ED51D-2561.",
   "year": 2024,
   "links": {},
@@ -1741,7 +1772,7 @@
   ]
  },
  {
-  "id": "abstract-2",
+  "id": "abstract-3",
   "section": "abstract",
   "citation_html": "Hubbs, D., <strong>Marsellos</strong>, A.E., Bennington, J.B., Bigolski, J., 2024. Mystery meteorite: petrographic investigation of an unclassified chondrite. Hofstra University Undergraduate Research Conference. May 2024.",
   "year": 2024,
@@ -1754,7 +1785,7 @@
   ]
  },
  {
-  "id": "abstract-3",
+  "id": "abstract-4",
   "section": "abstract",
   "citation_html": "Lawlor, J., Jones, W., Tecusan, K., <strong>Marsellos</strong>, A.E., 2024. Evaluating Flood Rates Utilizing A GIS Reconstruction of Brooklyn’s September 2023 Flood with LiDAR Data. Graduate Research Day Conference at Hofstra University.",
   "year": 2024,
@@ -1769,7 +1800,7 @@
   ]
  },
  {
-  "id": "abstract-4",
+  "id": "abstract-5",
   "section": "abstract",
   "citation_html": "Appel, C., Rahman, M. M., Boddu, D., <strong>Marsellos</strong>, A.E., 2024. Assessing the Impact of Dune Vegetation and the Effectiveness of Barrier Islands on Preventing Erosion: A 2011 &amp; 2014 LiDAR Erosion Analysis on Coastlines in Long Island, NY. May 2024, Graduate Research Day Conference at Hofstra University.",
   "year": 2024,
@@ -1783,7 +1814,7 @@
   ]
  },
  {
-  "id": "abstract-5",
+  "id": "abstract-6",
   "section": "abstract",
   "citation_html": "Farmer, E., Bennington, J. B., <strong>Marsellos</strong>, A.E., Bernhardt, J. E., Bennington, G. K., and Hecht, D. (2023). Collaborative, Multilevel “GEOTeams” Provide a Robust Introduction to Geoscience Research Simultaneously in Multiple Communities. Poster presented at the AGU Fall Meeting, San Francisco, CA, December 11–15, 2023. Abstract ED14A-06.",
   "year": 2023,
@@ -1796,7 +1827,7 @@
   ]
  },
  {
-  "id": "abstract-6",
+  "id": "abstract-7",
   "section": "abstract",
   "citation_html": "Mead, N., Bourgeois, J., Pelletier, A., Badger, T., <strong>Marsellos</strong>, A.E., 2023. Evaluating future flood risks in Rockaway, NY through geomorphological analysis and flood simulations. Long Island Natural History Conference, May 2023, Suffolk County Environmental Center, Islip, NY (also presenting at Hofstra Undergraduate Research Conference)",
   "year": 2023,
@@ -1809,7 +1840,7 @@
   ]
  },
  {
-  "id": "abstract-7",
+  "id": "abstract-8",
   "section": "abstract",
   "citation_html": "Hope, J., Van der Vegt, M., Vamum, G., Morrison-John M., <strong>Marsellos</strong> A.E., Tsakiri, K.G., 2023. An application of GIS and time series analysis to investigate the impacts of COVID-19 on groundwater trend fluctuations caused by manufacturing sites and residential living on Long Island, NY. Long Island Natural History Conference, May 2023, Suffolk County Environmental Center, Islip, NY (also presenting at Hofstra Undergraduate Research Conference).",
   "year": 2023,
@@ -1824,7 +1855,7 @@
   ]
  },
  {
-  "id": "abstract-8",
+  "id": "abstract-9",
   "section": "abstract",
   "citation_html": "Farmer, E.C., Bennington, J.B., <strong>Marsellos</strong>, A.E., Bernhardt, J.E. Bennington, G.K., and Hecht, D.H. 2022. “Novel Student Teams Provide Authentic Geoscience Research Experience.” ED32C-0547 accepted to 2022 Fall Meeting, American Geophysical Union, 12-16 December in Chicago, IL.",
   "year": 2022,
@@ -1835,7 +1866,7 @@
   ]
  },
  {
-  "id": "abstract-9",
+  "id": "abstract-10",
   "section": "abstract",
   "citation_html": "Phan,E. &amp; <strong>Marsellos</strong>, A.E., 2023. How big data world is affecting geoscience education: A study in high-ranked US-colleges. Joint 72nd Annual Southeastern/58th Annual Northeastern Section Meeting – 2023; ID# 385766.",
   "year": 2023,
@@ -1851,7 +1882,7 @@
   ]
  },
  {
-  "id": "abstract-10",
+  "id": "abstract-11",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Renner, F.A., Ptak, N., Elliott, K.C., 2021. Study of baseline activity of low-temperature volcano Thera in Santorini, Aegean Sea, Greece by removal of atmospheric influences. Undergraduate Research Day at Hofstra University, NSF funded project.",
   "year": 2021,
@@ -1862,7 +1893,7 @@
   ]
  },
  {
-  "id": "abstract-11",
+  "id": "abstract-12",
   "section": "abstract",
   "citation_html": "Raciti, S., Browne, J., <strong>Marsellos</strong>, A.E., 2021. Water Quality in Hempstead Bay: Historical Trends and Preliminary Findings from a Renewed Monitoring Program. Town of Hempstead, NY.",
   "year": 2021,
@@ -1873,7 +1904,7 @@
   ]
  },
  {
-  "id": "abstract-12",
+  "id": "abstract-13",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Hantzis, K.D., Tsakiri, K.G., Kyriakopoulos, K., 2022. A volcanic hazard evaluation challenge in a low-temperature hydrothermal system: An application to Sousaki volcanic monitoring station, Korinthos, Hellenic Volcanic Arc. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 12-17th, Crete, Greece.",
   "year": 2022,
@@ -1884,7 +1915,7 @@
   ]
  },
  {
-  "id": "abstract-13",
+  "id": "abstract-14",
   "section": "abstract",
   "citation_html": "Hantzis, K.D., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., Kyriakopoulos, K., 2022. How to remove the seasonal atmospheric effect: An application on a surface temperature at Nisyros volcanic monitoring station, Hellenic Volcanic Arc. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 12-17th, Crete, Greece.",
   "year": 2022,
@@ -1897,7 +1928,7 @@
   ]
  },
  {
-  "id": "abstract-14",
+  "id": "abstract-15",
   "section": "abstract",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Hantzis, K.D., Kyriakopoulos, K., 2022. An advanced volcanic hazard evaluation by understanding the atmospheric effect on surface-temperature: An application at Santorini volcano monitoring station, South Aegean Active Volcanic Arc. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 12-17th, Crete, Greece.",
   "year": 2022,
@@ -1910,7 +1941,7 @@
   ]
  },
  {
-  "id": "abstract-15",
+  "id": "abstract-16",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kyriakopoulos, K., Bennington, J.B., Sakkas, V., Papadimitriou, P., Athanassas, C.D., 2022. Geoscience education in action: A review of an international collaboration between Hofstra University (USA) and European Universities (EU). 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, May 23-27th , Crete, Greece.",
   "year": 2022,
@@ -1924,7 +1955,7 @@
   ]
  },
  {
-  "id": "abstract-16",
+  "id": "abstract-17",
   "section": "abstract",
   "citation_html": "Pasqualon, N.G., <strong>Marsellos</strong>, A.E., Lima, E.F., Kyriakopoulos, K., Santos, K.N.S., 2022. Insights of the magmatic system in Santorini from morphological and petrological characteristics of the Pre-Minoan (3.6 Ka) basic lavas, Santorini Island, Greece. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 12-17th, Crete, Greece.",
   "year": 2022,
@@ -1936,7 +1967,7 @@
   ]
  },
  {
-  "id": "abstract-17",
+  "id": "abstract-18",
   "section": "abstract",
   "citation_html": "Weinsten, P., <strong>Marsellos</strong>, A.E., 2020. Seasonal variations of the GPS sites of Whakaari volcano, New Zealand., 72nd Annual Meeting of the Rock Mountain Section, Geological Society of America Rocky Mountain Section, 4-5th May, Abstract proceedings XX-XX, Vol. XX:X, Provo, UT.",
   "year": 2020,
@@ -1948,7 +1979,7 @@
   ]
  },
  {
-  "id": "abstract-18",
+  "id": "abstract-19",
   "section": "abstract",
   "citation_html": "Achek, M., <strong>Marsellos</strong>, A.E., 2020. Microscale 3D-printed maps and statistical analysis of structural and geochemical characteristics of volcanic ash from the Eyjafjallajökull volcano in Iceland using Scanning Electron Microscope and 3D-elevation software. 55th Annual Meeting of the Northeastern Section, Geological Society of America NE meeting, March 20-22nd Abstracts proceedings XX-XX, Vol. XX:X, Reston, VA.",
   "year": 2020,
@@ -1962,7 +1993,7 @@
   ]
  },
  {
-  "id": "abstract-19",
+  "id": "abstract-20",
   "section": "abstract",
   "citation_html": "Achek, M., <strong>Marsellos</strong>, A.E., 2019. Microscale 3D-printed maps and statistical analysis of structural and geochemical characteristics of volcanic ash from the Eyjafjallajökull volcano in Iceland using Scanning Electron Microscope and 3D-elevation software. Hofstra Conference.",
   "year": 2019,
@@ -1978,7 +2009,7 @@
   ]
  },
  {
-  "id": "abstract-20",
+  "id": "abstract-21",
   "section": "abstract",
   "citation_html": "Mahoney, L., Plitnick, T.A., Achek, M., Bowen, J., Epstein, A., Lagattolla, R., Lopez-Rodriguez, P., Maliszka, M., Reardon, A., Rienzo, A., Tran, J., Weinstein, P., <strong>Marsellos</strong>, A.E., 2019. Structural mapping of upper plate dilating fractures on the island of Makrykythera, Greece at the local port using drone imaging and statistical analysis. Geological Society of America SE meeting, Abstracts proceedings 16-07, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327790,",
   "year": 2019,
@@ -1993,7 +2024,7 @@
   ]
  },
  {
-  "id": "abstract-21",
+  "id": "abstract-22",
   "section": "abstract",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Kapetanakis, S., 2019. Artificial neural networks application in time series water discharge for the prediction of flooding in Mohawk River, New York. Geological Society of America SE meeting, Abstracts proceedings 16-08, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327791,",
   "year": 2019,
@@ -2011,7 +2042,7 @@
   ]
  },
  {
-  "id": "abstract-22",
+  "id": "abstract-23",
   "section": "abstract",
   "citation_html": "Roscoe, S, Mahoney, L., <strong>Marsellos</strong>, A.E., 2019. Accuracy and efficiency of a GIS application using Google Earth geolocation and LiDAR data to reconstruct and simulate ice jam flooding on the Mohawk River, New York. Geological Society of America SE meeting, Abstracts proceedings 16-06, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327775,",
   "year": 2019,
@@ -2027,7 +2058,7 @@
   ]
  },
  {
-  "id": "abstract-23",
+  "id": "abstract-24",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Bennington, J.B., Plitnick, T.A., Jones, M.B., Chernoff, D., Hatzis, K., Kyriakopoulos, K., 2019. Ultra high-definition digital surface model and geochemical mapping of the Stefanos crater at the active volcano of Nisyros in Greece with UAV scanning, portable X-ray fluorescence, and geographical information systems. Geological Society of America SE meeting, Abstracts proceedings 16-05, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327753,",
   "year": 2019,
@@ -2044,7 +2075,7 @@
   ]
  },
  {
-  "id": "abstract-24",
+  "id": "abstract-25",
   "section": "abstract",
   "citation_html": "Hatzis, K., <strong>Marsellos</strong>, A.E., Tsakiri, K.G., Kyriakopoulos, K. 2019. Time series analysis of volcanic temperature monitoring: An example from the Nisyros active volcano at the Hellenic Volcanic Arc. Geological Society of America SE meeting, Abstracts proceedings 16-04, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327728",
   "year": 2019,
@@ -2060,7 +2091,7 @@
   ]
  },
  {
-  "id": "abstract-25",
+  "id": "abstract-26",
   "section": "abstract",
   "citation_html": "Plitnick, A.T., <strong>Marsellos</strong>, A.E., Tsakiri, K.G. 2019. Forecasting of water discharge using time series decomposition of hydrogeological and atmospheric variables to identify high risk periods of flooding in Schenectady, New York. Geological Society of America SE meeting, Abstracts proceedings 16-02, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327676",
   "year": 2019,
@@ -2076,7 +2107,7 @@
   ]
  },
  {
-  "id": "abstract-26",
+  "id": "abstract-27",
   "section": "abstract",
   "citation_html": "Tran, J., <strong>Marsellos</strong>, A.E., Tsakiri, K.G. 2019. Enhanced forecasting of flood events by integrating ARIMA in time series decomposition: An application at the Delaware River, Trenton, NJ. Geological Society of America SE meeting, Abstracts proceedings 16-03, Vol. 51:3, Charleston, SC. doi: 10.1130/abs/2019SE-327703",
   "year": 2019,
@@ -2092,7 +2123,7 @@
   ]
  },
  {
-  "id": "abstract-27",
+  "id": "abstract-28",
   "section": "abstract",
   "citation_html": "Weinstein, P.S., <strong>Marsellos</strong>, A.E. (2018) Determination of a flooding rate using GIS and water-rise simulations in a LiDAR bare-earth model, Abstract [Final paper number, 444777] presented at 2018 Fall Meeting, AGU, Washington, D.C., 10-14 Dec.",
   "year": 2018,
@@ -2106,7 +2137,7 @@
   ]
  },
  {
-  "id": "abstract-28",
+  "id": "abstract-29",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Hantzis, K., Tsakiri, K. 2019. Effect of climatic conditions on a volcanic surface-temperature sensor: An example on the caldera surface of Nisyros Island, Greece. American Statistical Association. Conference on Statistical Practice, February, New Orleans, LA.",
   "year": 2019,
@@ -2118,7 +2149,7 @@
   ]
  },
  {
-  "id": "abstract-29",
+  "id": "abstract-30",
   "section": "abstract",
   "citation_html": "Tsakiri, K., <strong>Marsellos</strong>, A.E., Kapetanakis, S., 2018. Artificial Neural Networks and Time Series Decomposition for the Flood Prediction in Mohawk Watershed, New York. American Statistical Association. Symposium on Data Science and Statistics, May, Reston, VA.",
   "year": 2018,
@@ -2133,7 +2164,7 @@
   ]
  },
  {
-  "id": "abstract-30",
+  "id": "abstract-31",
   "section": "abstract",
   "citation_html": "Pasqualon, N. G.; Lima, E. F. ; <strong>Marsellos</strong>, A. E. ; Santos, K. N. S. ; Kyriakopoulos, K. 2018. Morfologia E Petrologia De Lavas Básicas Pré-Erupção Minoica (3,6 Ka) Em Santorini, Grécia: Uma Nova Abordagem. In: VII Simpósio de Vulcanismo e Ambientes Associados (STVs), Rio de Janeiro. Anais do 49o Congresso Brasileiro de Geologia, 2018.",
   "year": 2018,
@@ -2145,7 +2176,7 @@
   ]
  },
  {
-  "id": "abstract-31",
+  "id": "abstract-32",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K., Kapetanakis, S., Jones, M., Kyriakopoulos, K., 2017. Temperature Monitoring of a Volcanic Vent Gas Emission using Time Series Analysis and Markov Chain approach: An example in Nisyros Volcano, South Aegean. Geological Society of America Annual Meeting, Abstracts proceedings 392-24, Seattle, WA.",
   "year": 2017,
@@ -2161,7 +2192,7 @@
   ]
  },
  {
-  "id": "abstract-32",
+  "id": "abstract-33",
   "section": "abstract",
   "citation_html": "Jones, M., O’neill, A., <strong>Marsellos</strong>, A., Kyriakopoulos, K., 2017. 3D scanning and printing of volcanic monitoring devices to evaluate potential alternative casing. Geological Society of America Annual Meeting, Vol. 49:6, Abstracts proceedings 392-25, Seattle, WA. doi: 10.1130/abs/2017AM-304844,",
   "year": 2017,
@@ -2175,7 +2206,7 @@
   ]
  },
  {
-  "id": "abstract-33",
+  "id": "abstract-34",
   "section": "abstract",
   "citation_html": "Jones, M., <strong>Marsellos</strong>, A., Kyriakopoulos, K., 2017. GIS and statistical analysis of residents response to volcanic hazards on Nisyros, South Aegean. Geological Society of America Annual Meeting, Abstracts proceedings 392-26, Seattle, WA.",
   "year": 2017,
@@ -2191,7 +2222,7 @@
   ]
  },
  {
-  "id": "abstract-34",
+  "id": "abstract-35",
   "section": "abstract",
   "citation_html": "Lakeram, S., Chernoff, D., Pascucci, T., <strong>Marsellos</strong>, A.E., 2017. GIS and statistical analysis of local business responses of flooding events along the Mohawk River valley in Amsterdam, New York. 24th Conference on the Geology of Long Island and Metropolitan New York. April 2017.",
   "year": 2017,
@@ -2207,7 +2238,7 @@
   ]
  },
  {
-  "id": "abstract-35",
+  "id": "abstract-36",
   "section": "abstract",
   "citation_html": "Gogos, I., Finneran, J., Shire, K., <strong>Marsellos</strong>, A.E., 2017. Assessment of an interest in a flood prevention application for residents of the South Shore of Long Island, New York. 24th Conference on the Geology of Long Island and Metropolitan New York. April 2017.",
   "year": 2017,
@@ -2220,7 +2251,7 @@
   ]
  },
  {
-  "id": "abstract-36",
+  "id": "abstract-37",
   "section": "abstract",
   "citation_html": "Hardy, L., Smith, M., Moles, N., <strong>Marsellos</strong>, A.E., 2016. Geochemical and mineralogical controls on the distribution of rare earth elements in European subtropical weathering environments. AMG Critical Metals Workshop, NHM, London.",
   "year": 2016,
@@ -2233,7 +2264,7 @@
   ]
  },
  {
-  "id": "abstract-37",
+  "id": "abstract-38",
   "section": "abstract",
   "citation_html": "Lewis, A., Weaver, E., Dorward, E., <strong>Marsellos</strong>, A.E., 2016. Two methods for determining the extent of flooding during hurricane Irene in Schenectady, NY. 23rd Conference on the Geology of Long Island and Metropolitan New York. April 2016.",
   "year": 2016,
@@ -2247,7 +2278,7 @@
   ]
  },
  {
-  "id": "abstract-38",
+  "id": "abstract-39",
   "section": "abstract",
   "citation_html": "Swan, B., Yankopoulos, A.T., <strong>Marsellos</strong>, A.E., 2016. Evaluation and analysis of the environmental impact of the June 28, 2013 flood in Herkimer, New York using GIS and other reconstructive data. 23rd Conference on the Geology of Long Island and Metropolitan New York. April 2016.",
   "year": 2016,
@@ -2261,7 +2292,7 @@
   ]
  },
  {
-  "id": "abstract-39",
+  "id": "abstract-40",
   "section": "abstract",
   "citation_html": "Sisti, A.D., Combs, E.I., <strong>Marsellos</strong>, A.E., 2016. Field and laboratory assessment of a flood site: An example of the flooding of the Mohawk River at Lock 12 in Fort Hunter, NY, during hurricane Irene (August 28-29th, 2011. 23rd Conference on the Geology of Long Island and Metropolitan New York. April 2016.",
   "year": 2016,
@@ -2275,9 +2306,9 @@
   ]
  },
  {
-  "id": "abstract-40",
+  "id": "abstract-41",
   "section": "abstract",
-  "citation_html": "Pasqualon, N. G., Santos, K. N. S., <strong>Marsellos</strong>, A. E., Kyriakopoulos, K., 2016. Caracterização Petrográfica E Geoquímica Das Unidades Metamórifcas De Athinios (Santorini, Grécia) E Suas Implicações. In: 48o Congresso Brasileiro de Geologia, 2016, Porto Alegre. Anais do 48o Congresso Brasileiro de Geologia, 2016.",
+  "citation_html": "Pasqualon, N. G., Santos, K. N. S., <strong>Marsellos</strong>, A. E., Kyriakopoulos, K., 2016. Caracterização Petrográfica E Geoquímica Das Unidades Metamórifcas De Athinios (Santorini,Grécia) E Suas Implicações. In: 48o Congresso Brasileiro de Geologia, 2016, Porto Alegre. Anaisdo 48o Congresso Brasileiro de Geologia, 2016.",
   "year": 2016,
   "links": {},
   "students": "university",
@@ -2286,9 +2317,9 @@
   ]
  },
  {
-  "id": "abstract-41",
+  "id": "abstract-42",
   "section": "abstract",
-  "citation_html": "Pasqualon, N. G.; Lima, E. F., <strong>Marsellos</strong>, A. E., Santos, K. N. S., KYRIAKOPOULOS, K. 2016. Projetos De Pesquisa Desenvolvidos Na University Of Brighton (Reino Unido): Uma Experiência No Programa Ciência Sem Fronteiras. In: 48o Congresso Brasileiro de Geologia, 2016, Porto Alegre. Anais do 48o Congresso Brasileiro de Geologia, 2016.",
+  "citation_html": "Pasqualon, N. G.; Lima, E. F., <strong>Marsellos</strong>, A. E., Santos, K. N. S., KYRIAKOPOULOS, K. 2016.Projetos De Pesquisa Desenvolvidos Na University Of Brighton (Reino Unido): UmaExperiência No Programa Ciência Sem Fronteiras. In: 48o Congresso Brasileiro de Geologia,2016, Porto Alegre. Anais do 48o Congresso Brasileiro de Geologia, 2016.",
   "year": 2016,
   "links": {},
   "students": "university",
@@ -2297,7 +2328,7 @@
   ]
  },
  {
-  "id": "abstract-42",
+  "id": "abstract-43",
   "section": "abstract",
   "citation_html": "Bennington, J.B., Brinkmann, R., Farmer, E. C., Garren, S., and <strong>Marsellos</strong>, A.E., 2015. Integrating sustainability and geology in a new curriculum for undergraduate earth science education. Geological Society of America (GSA) Annual Meeting in Baltimore, MD, November 2015, Abstr. Program Vol. 47, No. 7, p. 834, paper No. 330-13.",
   "year": 2015,
@@ -2311,7 +2342,7 @@
   ]
  },
  {
-  "id": "abstract-43",
+  "id": "abstract-44",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2015. Flooding prediction in a large watershed: An example from Mohawk River in New York. Mohawk Watershed Symposium, March 2015, ISBN: 978-1-939968-05-0, p. 35-38.",
   "year": 2015,
@@ -2324,7 +2355,7 @@
   ]
  },
  {
-  "id": "abstract-44",
+  "id": "abstract-45",
   "section": "abstract",
   "citation_html": "Pasqualon, N. G., Lima, E. F., <strong>Marsellos</strong>, A. E., 2015. Pesquisa extracurricular sobre a geoquímica e petrografia do embasamento metamórfico e cobertura vulcânica de Santorini, na Grécia.. In: Salão de Iniciação Científica UFRGS 2015, 2015, Porto Alegre. XXVII Salão de Iniciação Científica UFRGS, 2015.",
   "year": 2015,
@@ -2336,7 +2367,7 @@
   ]
  },
  {
-  "id": "abstract-45",
+  "id": "abstract-46",
   "section": "abstract",
   "citation_html": "Hardy, L., Smith, M., Moles, N., <strong>Marsellos</strong>, A.E., 2015. Geochemical and mineralogical constraints on the distribution and enrichment of the rare earth elements during pedogenesis and tropical weathering. EGU General Assembly 2015, 12-17th April 2015 in Vienna, Austria, id 15501.",
   "year": 2015,
@@ -2348,7 +2379,7 @@
   ]
  },
  {
-  "id": "abstract-46",
+  "id": "abstract-47",
   "section": "abstract",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Zurbenko, I.G., 2015. A time series model for the prediction of flooding in water rivers. Joint Mathematics Meeting in San Antonio, TX (1106-VI-2383).",
   "year": 2015,
@@ -2360,7 +2391,7 @@
   ]
  },
  {
-  "id": "abstract-47",
+  "id": "abstract-48",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., Smith, M., 2014. Prediction of River Flooding using Geospatial and Statistical Analysis in New York, USA and Kent, UK. American Geophysical Union, December, San Francisco, CA, Abstr. Program, H41C-0827.",
   "year": 2014,
@@ -2375,7 +2406,7 @@
   ]
  },
  {
-  "id": "abstract-48",
+  "id": "abstract-49",
   "section": "abstract",
   "citation_html": "Baziotis, I., Proyer, A., Mposkos, E., <strong>Marsellos</strong>, A.E., Lentakianakos, G., 2014. Amphibole zonation as a tool for tracing metamorphic histories: examples from Lavrion and Penteli metamorphic core complexes, Geophysical Research Abstracts, EGU General Assembly 2014, Vol. 16.",
   "year": 2014,
@@ -2386,7 +2417,7 @@
   ]
  },
  {
-  "id": "abstract-49",
+  "id": "abstract-50",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G.., 2014. An approach to flooding prediction using GIS and time series decomposition: An example of flooding in Mohawk River, New York. 1st International GEOMAPPLICA Conference 2014, abstract proceedings..",
   "year": 2014,
@@ -2402,7 +2433,7 @@
   ]
  },
  {
-  "id": "abstract-50",
+  "id": "abstract-51",
   "section": "abstract",
   "citation_html": "Tsakiri, K.G.., <strong>Marsellos</strong>, A.E., 2014. A numerical model for the prediction of flooding in water rivers. Proceedings in the 6th International Conference on Numerical Analysis, September 2-5, Chania, Crete.",
   "year": 2014,
@@ -2413,7 +2444,7 @@
   ]
  },
  {
-  "id": "abstract-51",
+  "id": "abstract-52",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2014. Prediction Model for the Water Discharge Time Series in Mohawk Watershed, NY., Mohawk Watershed Symposium, March 2014, p. 30-31.",
   "year": 2014,
@@ -2427,7 +2458,7 @@
   ]
  },
  {
-  "id": "abstract-52",
+  "id": "abstract-53",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Foster, D.A, Kidd, W.S.F., Min, K., Garver, J., Kyriakopoulos, K., 2013. An application of GIS analysis on structural data from metamorphic rocks in Santorini Island. Hellenic Geological Society of Greece. Crete, September 2013.",
   "year": 2013,
@@ -2443,7 +2474,7 @@
   ]
  },
  {
-  "id": "abstract-53",
+  "id": "abstract-54",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Tsakiri, K., 2012. Spatial and statistical GIS Applications for geological and environmental courses. American Geophysical Union, Education, December 2012, San Francisco, Abstr. Program.",
   "year": 2012,
@@ -2455,7 +2486,7 @@
   ]
  },
  {
-  "id": "abstract-54",
+  "id": "abstract-55",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Garver, J.I., 2012. A river flood study of the Mohawk river in New York using GIS and LiDAR. Annual South Florida GIS, October 2012, Palm Beach, FL.",
   "year": 2012,
@@ -2467,7 +2498,7 @@
   ]
  },
  {
-  "id": "abstract-55",
+  "id": "abstract-56",
   "section": "abstract",
   "citation_html": "Foster, J.A., <strong>Marsellos</strong>, A.E., 2012. Incremental volumetric calculation using LiDAR and GIS - a methodology for predicting flood trigger levels. Geological Society of America, April 2012, Ashville, NC, Abstr. Program Vol. 44, No. 4, p. 79.",
   "year": 2012,
@@ -2479,7 +2510,7 @@
   ]
  },
  {
-  "id": "abstract-56",
+  "id": "abstract-57",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Foster, D. A., Min, K. , Kamenov, G. D., Kidd, W.S.F., Garver, J., Kyriakopoulos, K., 2012. A structural and thermochronological study of Santorini detachment in Santorini Island, Aegean Sea. American Geophysical Union, December 2012, San Francisco, Abstr. Program.",
   "year": 2012,
@@ -2492,7 +2523,7 @@
   ]
  },
  {
-  "id": "abstract-57",
+  "id": "abstract-58",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Foster, D.A., Kamenov, G.D., Kyriakopoulos, K.G., 2012. Detrital zircon U-Pb and Hf isotopic data from the Hellenic forearc and volcanic arc areas (Attiki, Peloponnese, Kythera, Crete, Milos, Santorini). Geological Society of America, November 2012, Charlotte, NC, Abstr. Program, Vol. 44, No. 7, p. 285.",
   "year": 2012,
@@ -2505,7 +2536,7 @@
   ]
  },
  {
-  "id": "abstract-58",
+  "id": "abstract-59",
   "section": "abstract",
   "citation_html": "Shan J, Hu SB, Min K, Rao S, Tang XY, <strong>Marsellos</strong> A.E., McInnes BA, Evans N (2012) Low-T thermochronology of the northern margin of the South China Sea: Evidence from apatite and zircon (U-Th)/He ages, 13th International Conference on Thermochronology, p. 72.",
   "year": 2012,
@@ -2516,7 +2547,7 @@
   ]
  },
  {
-  "id": "abstract-59",
+  "id": "abstract-60",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Foster, D.A., Kamenov, G., Kyriakopoulos, K., 2011. Detrital zircon U-Pb and Hf isotopic data from the Hellenic south Aegean belts: Constraints on the South Aegean basement. Geological Society of America. 60th Annual Meeting, Wilmington, North Carolina. Abstr. Program.",
   "year": 2011,
@@ -2528,7 +2559,7 @@
   ]
  },
  {
-  "id": "abstract-60",
+  "id": "abstract-61",
   "section": "abstract",
   "citation_html": "Foster, J.A., <strong>Marsellos</strong>, A.E., Garver, J.I., 2011. Predicting trigger level for ice jam flooding of the lower Mohawk River using LiDAR and GIS. American Geophysical Union, Abstr. Program H21F-1185, presented at Fall Meeting, AGU, San Francisco, CA, 5-9 Dec.",
   "year": 2011,
@@ -2542,7 +2573,7 @@
   ]
  },
  {
-  "id": "abstract-61",
+  "id": "abstract-62",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Tsakiri, K.G., 2011. Central Florida lakes study: evidence from 1973 to 2006 Landsat MSS/TM/ETM images. Geological Society of America. 60th Annual Meeting, Wilmington, North Carolina. Abstr. Program.",
   "year": 2011,
@@ -2553,7 +2584,7 @@
   ]
  },
  {
-  "id": "abstract-62",
+  "id": "abstract-63",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., 2011. Mapping of the Central Florida lakes from 1973 to 2010 using Landsat MSS/TM/ETM images. The Florida Water Resources Conference, Kissimmee, Florida.",
   "year": 2011,
@@ -2565,7 +2596,7 @@
   ]
  },
  {
-  "id": "abstract-63",
+  "id": "abstract-64",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Tsakiri, K.G., 2010. Geospatial statistical analysis using LiDAR intensity and elevation data. 41st International Binghamton Geomorphohlogy Symposium (BGS2010). Geospatial Technologies &amp; Geomorphological Mapping. Columbia, SC.",
   "year": 2010,
@@ -2577,7 +2608,7 @@
   ]
  },
  {
-  "id": "abstract-64",
+  "id": "abstract-65",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Garver, J.I., 2010. Channel incision and landslides identified by LiDAR in the lower reaches of Schoharie creek, New York. NE-Geol. Soc. Am., Abstr. Program.",
   "year": 2010,
@@ -2590,7 +2621,7 @@
   ]
  },
  {
-  "id": "abstract-65",
+  "id": "abstract-66",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., Garver, J.I., Kyriakopoulos, K.G., 2010. Exhumation of the Hellenic accretionary prism - evidence from fission-track thermochronology. 12th International Congress of the Geological Society of Greece, May 2010.",
   "year": 2010,
@@ -2604,7 +2635,7 @@
   ]
  },
  {
-  "id": "abstract-66",
+  "id": "abstract-67",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Kidd, W.S.F., 2009. Multi-stage extension and the Mid-Late Miocene arc-parallel extension event in the Hellenic Ridge. Am. Geoph. Union Joint Assembly, Toronto, Canada; EOS, Trans. Amer. Geophys. Union, 90 (22), Abstract T31A-08.",
   "year": 2009,
@@ -2615,7 +2646,7 @@
   ]
  },
  {
-  "id": "abstract-67",
+  "id": "abstract-68",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Garver, J.I., 2009. Discriminating Fission-Track age of Low-Retentive Zircons using micro-Raman Spectroscopy. Am.Geoph.Union Joint Assembly, Toronto, Canada; EOS, Trans. Amer. Geophys. Union, 90 (22), Abstract V33E-03.",
   "year": 2009,
@@ -2626,7 +2657,7 @@
   ]
  },
  {
-  "id": "abstract-68",
+  "id": "abstract-69",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., and Garver, J.I., 2008. Zircon Fission Track dating of exhumation related to arc-parallel extension in the Hellenic forearc basin. In: Garver, J.I., and Montario, M.J., Proceedings of the 11th International Conference on thermochronometry, Anchorage Alaska, p.163-164.",
   "year": 2008,
@@ -2638,7 +2669,7 @@
   ]
  },
  {
-  "id": "abstract-69",
+  "id": "abstract-70",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Garver, J.I., Thomas, J.B., Kidd, W.S.F., 2008. A Raman Spectroscopic Study of zircons with low to medium uranium content. In: Proceedings of the 11th International Conference on thermochronometry, Anchorage Alaska, p.165-167.",
   "year": 2008,
@@ -2649,7 +2680,7 @@
   ]
  },
  {
-  "id": "abstract-70",
+  "id": "abstract-71",
   "section": "abstract",
   "citation_html": "Montario, M.J., <strong>Marsellos</strong>, A.E., Garver, J.I., 2008. Annealing of radiation damage in a Grenville zircon from the eastern Adirondacks, NY State. In: Garver, J.I., and Montario, M.J., Proceedings of the 11th International Conference on thermochronometry, Anchorage Alaska, p.174-176.",
   "year": 2008,
@@ -2660,7 +2691,7 @@
   ]
  },
  {
-  "id": "abstract-71",
+  "id": "abstract-72",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., 2007. Neogene exhumation structures of Northern Kythera including a significant extension along the Hellenic Arc. Geol.Soc.Am. Penrose Conference, Abs. Program, Naxos, Greece.",
   "year": 2007,
@@ -2672,7 +2703,7 @@
   ]
  },
  {
-  "id": "abstract-72",
+  "id": "abstract-73",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., 2006. Detachment fault and shear zone of the Cretan-Peloponnese Ridge in Kythera Island. Geol. Soc. Am. Abstr. Program 38:238.",
   "year": 2006,
@@ -2683,7 +2714,7 @@
   ]
  },
  {
-  "id": "abstract-73",
+  "id": "abstract-74",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F. &amp; Kyriakopoulos, K., 2006. Landslide hazard spatial analysis and prediction using GIS and Remote Sensing data in the Kythera Island, Southwestern Aegean, Greece. International Conference on Natural Hazards, Abstr. Program, p. 67, University of Patras, Greece.",
   "year": 2006,
@@ -2694,7 +2725,7 @@
   ]
  },
  {
-  "id": "abstract-74",
+  "id": "abstract-75",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F., Kyriakopoulos, K., Vasillopoulos, A., 2006. Remote sensing identification of areas at high risk of slope instabilities and failure by tectonic triggering in Kythera Island, Greece. International Conference on Remote Sensing and Spatial analysis tools for erosion processes, Samos, Greece.",
   "year": 2006,
@@ -2707,7 +2738,7 @@
   ]
  },
  {
-  "id": "abstract-75",
+  "id": "abstract-76",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E., Kidd, W.S.F. &amp; Kyriakopoulos, K., 2004. Application of the new technologies (GPS, GIS, Remote Sensing) for the examination and understanding the various geological formations. Abst. Program, First International Symposium of Institute of Kytheraismos. Greece.",
   "year": 2004,
@@ -2719,7 +2750,7 @@
   ]
  },
  {
-  "id": "abstract-76",
+  "id": "abstract-77",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Kyriakopoulos, K., 2003. Research of the micro-environment of Kythera Caves. Study of the diachrony of cave formations and rock paintings. Conference “Scientific Research in Kythera”, Abst. Program, Kythera, Greece.",
   "year": 2003,
@@ -2730,7 +2761,7 @@
   ]
  },
  {
-  "id": "abstract-77",
+  "id": "abstract-78",
   "section": "abstract",
   "citation_html": "<strong>Marsellos</strong>, A.E. &amp; Kyriakopoulos, K., 2000. Research on the micro-environment of secondary minerals of small caves and cavities. International Conference “Mythos and Reality” relating to the island of Kythera and the surrounding region. Abst. Program, Kythera, Greece.",
   "year": 2000,
@@ -2738,6 +2769,39 @@
   "students": null,
   "areas": [
    "petrology"
+  ]
+ },
+ {
+  "id": "abstract-79",
+  "section": "abstract",
+  "citation_html": "Raciti, S.M., <strong>Marsellos</strong>, A. E., and Browne, J. P., 2020. Water Quality Trends in Hempstead Bay, NY from 1968 – 2017: A Historical Data Analysis and Report for Long Island’s South Shore Estuary Reserve Western Bays. National Center for Suburban Studies, Hofstra University, Hempstead, NY. <a href=\"https://drive.google.com/file/d/1NPHRyDKMvM8ck-k7hH2izwp0kp_hkfHx/view?usp=sharing\" class=\"uri\">https://drive.google.com/file/d/1NPHRyDKMvM8ck-k7hH2izwp0kp_hkfHx/view?usp=sharing</a>",
+  "year": 2020,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water"
+  ]
+ },
+ {
+  "id": "abstract-80",
+  "section": "abstract",
+  "citation_html": "Raciti, S.M., Browne, J. P., and <strong>Marsellos</strong>, A. E., 2022. Water Quality Trends in Hempstead Bay, NY from 1968 – 2022: An Updated Report for Long Island’s South Shore Estuary Reserve Western Bays. National Center for Suburban Studies, Hofstra University, Hempstead, NY. <a href=\"https://drive.google.com/file/d/1_agR7cCYdBhzujANWWWPD6vbLIl4FvUJ/view\" class=\"uri\">https://drive.google.com/file/d/1_agR7cCYdBhzujANWWWPD6vbLIl4FvUJ/view</a>",
+  "year": 2022,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water"
+  ]
+ },
+ {
+  "id": "abstract-81",
+  "section": "abstract",
+  "citation_html": "Raciti, S.M., Browne, J. P., and <strong>Marsellos</strong>, A. E., 2024. Water Quality Trends in Hempstead Bay, NY from 1968 – 2023: An Updated Report for Long Island’s South Shore Estuary Reserve Western Bays. National Center for Suburban Studies, Hofstra University, Hempstead, NY. <a href=\"https://drive.google.com/file/d/14cwSVGf2VWk-op2tyjgCmABiBY2N3R-6/view\" class=\"uri\">https://drive.google.com/file/d/14cwSVGf2VWk-op2tyjgCmABiBY2N3R-6/view</a>",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water"
   ]
  },
  {
@@ -2846,11 +2910,9 @@
  {
   "id": "hs-1",
   "section": "hs",
-  "citation_html": "Khan, A., &amp; <strong>Marsellos</strong>, A. E. (2026). Honest vs. naive accuracy in HRV-based arrhythmia classification: A subject-level validation study using the MIT-BIH Arrhythmia Database. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
+  "citation_html": "Pasumarthi, S., <strong>Marsellos</strong>, A.E., 2026. Filtering Electroencephalogram Data Using R: A Study on Patients with Seizures. 2026 IEEE 14th International Conference on Healthcare Informatics (ICHI), Minneapolis, MN, USA, June 1–3, 2026, p. 1311–1312. IEEE. doi: 10.1109/ICHI69079.2026.00190. <a href=\"https://doi.org/10.1109/ICHI69079.2026.00190\" class=\"uri\">https://doi.org/10.1109/ICHI69079.2026.00190</a>",
   "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Akif_Khan_2026.pdf"
-  },
+  "links": {},
   "students": "hs",
   "areas": [
    "biomedical"
@@ -2859,37 +2921,42 @@
  {
   "id": "hs-2",
   "section": "hs",
-  "citation_html": "Liu, C., &amp; <strong>Marsellos</strong>, A. E. (2026). An island reshaped from within: 34 years of coastal and inland water change on Belitung Island, Indonesia, measured in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
+  "citation_html": "Khan, A., &amp; <strong>Marsellos</strong>, A. E. (2026). Honest vs. naive accuracy in HRV-based arrhythmia classification: A subject-level validation study using the MIT-BIH Arrhythmia Database. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Chace_Liu_2026.pdf"
-  },
-  "students": "hs",
-  "areas": [
-   "geospatial"
-  ]
- },
- {
-  "id": "hs-3",
-  "section": "hs",
-  "citation_html": "Liao, C., &amp; <strong>Marsellos</strong>, A. E. (2026). Tracking EEG band power through general anesthesia in R: Slow waves rise gradually and before the recorded loss of consciousness. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
-  "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Chloe_Liao_2026.pdf"
-  },
+  "links": {},
   "students": "hs",
   "areas": [
    "biomedical"
   ]
  },
  {
+  "id": "hs-3",
+  "section": "hs",
+  "citation_html": "Liu, C., &amp; <strong>Marsellos</strong>, A. E. (2026). An island reshaped from within: 34 years of coastal and inland water change on Belitung Island, Indonesia, measured in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {},
+  "students": "hs",
+  "areas": [
+   "geospatial"
+  ]
+ },
+ {
   "id": "hs-4",
+  "section": "hs",
+  "citation_html": "Liao, C., &amp; <strong>Marsellos</strong>, A. E. (2026). Tracking EEG band power through general anesthesia in R: Slow waves rise gradually and before the recorded loss of consciousness. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
+  "year": 2026,
+  "links": {},
+  "students": "hs",
+  "areas": [
+   "biomedical"
+  ]
+ },
+ {
+  "id": "hs-5",
   "section": "hs",
   "citation_html": "Demma, G., &amp; <strong>Marsellos</strong>, A. E. (2026). Mapping where Rumson floods: A sea-level-rise simulation of the Navesink and Shrewsbury watershed. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Giuliana_Demma_2026.pdf"
-  },
+  "links": {},
   "students": "hs",
   "areas": [
    "geospatial",
@@ -2897,26 +2964,22 @@
   ]
  },
  {
-  "id": "hs-5",
+  "id": "hs-6",
   "section": "hs",
   "citation_html": "Amin, R., &amp; <strong>Marsellos</strong>, A. E. (2026). Comparing three GPS noise filters: Which best recovers a clean signal buried in noise. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Riyaan_Amin_2026.pdf"
-  },
+  "links": {},
   "students": "hs",
   "areas": [
    "tectonics"
   ]
  },
  {
-  "id": "hs-6",
+  "id": "hs-7",
   "section": "hs",
   "citation_html": "Johari, S., &amp; <strong>Marsellos</strong>, A. E. (2026). Sunspots, volcanic eruptions and earthquakes in R: Periodicities and correlations. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Sofia_Johari_2026.pdf"
-  },
+  "links": {},
   "students": "hs",
   "areas": [
    "time-series",
@@ -2926,13 +2989,11 @@
   ]
  },
  {
-  "id": "hs-7",
+  "id": "hs-8",
   "section": "hs",
   "citation_html": "Lian, T., &amp; <strong>Marsellos</strong>, A. E. (2026). Resting-state EEG markers of Alzheimer’s disease: Spectral power and signal complexity. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {
-   "poster": "HUSSRP_posters/Poster_Tiger_Lian_2026.pdf"
-  },
+  "links": {},
   "students": "hs",
   "areas": [
    "time-series",
@@ -2940,7 +3001,7 @@
   ]
  },
  {
-  "id": "hs-8",
+  "id": "hs-9",
   "section": "hs",
   "citation_html": "Aashrita, K., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating Earth orientation parameters as predictors of global temperature anomalies. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2953,7 +3014,7 @@
   ]
  },
  {
-  "id": "hs-9",
+  "id": "hs-10",
   "section": "hs",
   "citation_html": "Arun, A., &amp; <strong>Marsellos</strong>, A. E. (2025). Linking climate drivers to United States temperature variability: Spectral, wavelet, and ANN-based forecasting approaches. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2969,7 +3030,7 @@
   ]
  },
  {
-  "id": "hs-10",
+  "id": "hs-11",
   "section": "hs",
   "citation_html": "Khan, A., &amp; <strong>Marsellos</strong>, A. E. (2025). EEG signal filtering and spectral analysis for seizure detection. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2983,7 +3044,7 @@
   ]
  },
  {
-  "id": "hs-11",
+  "id": "hs-12",
   "section": "hs",
   "citation_html": "Squiciarino, A., &amp; <strong>Marsellos</strong>, A. E. (2025). Mapping the mind: Visualizing cognitive brain dynamics with spectral entropy topomaps in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -2998,7 +3059,7 @@
   ]
  },
  {
-  "id": "hs-12",
+  "id": "hs-13",
   "section": "hs",
   "citation_html": "Sirinchenko, D., &amp; <strong>Marsellos</strong>, A. E. (2025). Assessing vertical ground motion along the New Jersey shoreline with continuous GPS. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3012,7 +3073,7 @@
   ]
  },
  {
-  "id": "hs-13",
+  "id": "hs-14",
   "section": "hs",
   "citation_html": "Chen, D., &amp; <strong>Marsellos</strong>, A. E. (2025). Analyzing sunspot cycles using wavelet and ANN forecasting: A preliminary step towards predicting groundwater level fluctuations. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3028,7 +3089,7 @@
   ]
  },
  {
-  "id": "hs-14",
+  "id": "hs-15",
   "section": "hs",
   "citation_html": "Gao, E., &amp; <strong>Marsellos</strong>, A. E. (2025). Signal detection of solar maxima using wavelet-enhanced derivative analysis in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3042,7 +3103,7 @@
   ]
  },
  {
-  "id": "hs-15",
+  "id": "hs-16",
   "section": "hs",
   "citation_html": "Shen, E., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating EEG signals of pediatric patients with intractable seizures using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3055,7 +3116,7 @@
   ]
  },
  {
-  "id": "hs-16",
+  "id": "hs-17",
   "section": "hs",
   "citation_html": "Kim, H., &amp; <strong>Marsellos</strong>, A. E. (2025). Spatial analysis of soil erosion from mechanized farming in Ghana’s rice-growing regions. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3068,7 +3129,7 @@
   ]
  },
  {
-  "id": "hs-17",
+  "id": "hs-18",
   "section": "hs",
   "citation_html": "Wang, J., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating groundwater and landslides relationship using R: A study on Long Island, New York North Shore. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3079,7 +3140,7 @@
   ]
  },
  {
-  "id": "hs-18",
+  "id": "hs-19",
   "section": "hs",
   "citation_html": "Li, J., &amp; <strong>Marsellos</strong>, A. E. (2025). Sea level rise and flood risk in Long Island, New York. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3090,7 +3151,7 @@
   ]
  },
  {
-  "id": "hs-19",
+  "id": "hs-20",
   "section": "hs",
   "citation_html": "Kim, M., &amp; <strong>Marsellos</strong>, A. E. (2025). Developing an ANN-powered R Shiny application for real-time seizure prediction from EEG data. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3104,7 +3165,7 @@
   ]
  },
  {
-  "id": "hs-20",
+  "id": "hs-21",
   "section": "hs",
   "citation_html": "Kalatheeswaran, N., &amp; <strong>Marsellos</strong>, A. E. (2025). Geostatistical analysis of post-seismic displacement along the Ramapo fault using continuous GPS displacement rates in New Jersey. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3118,7 +3179,7 @@
   ]
  },
  {
-  "id": "hs-21",
+  "id": "hs-22",
   "section": "hs",
   "citation_html": "Zhu, O., &amp; <strong>Marsellos</strong>, A. E. (2025). Using GIS to explore links between smoking, population density, and lung cancer. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3132,7 +3193,7 @@
   ]
  },
  {
-  "id": "hs-22",
+  "id": "hs-23",
   "section": "hs",
   "citation_html": "Chakrabarti, R., &amp; <strong>Marsellos</strong>, A. E. (2025). Analyzing pediatric EEG signals for seizure-related brain activity using ANN and Random Forest models. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3146,7 +3207,7 @@
   ]
  },
  {
-  "id": "hs-23",
+  "id": "hs-24",
   "section": "hs",
   "citation_html": "Chen, R., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating slope, faults, and landslides relationship using R: A study on Taiwan. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3159,7 +3220,7 @@
   ]
  },
  {
-  "id": "hs-24",
+  "id": "hs-25",
   "section": "hs",
   "citation_html": "Sharma, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating the relationship between focal seizure duration and localization using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3172,7 +3233,7 @@
   ]
  },
  {
-  "id": "hs-25",
+  "id": "hs-26",
   "section": "hs",
   "citation_html": "Pasumarthi, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Filtering electroencephalogram data using R: A study on patients with seizures. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3185,7 +3246,7 @@
   ]
  },
  {
-  "id": "hs-26",
+  "id": "hs-27",
   "section": "hs",
   "citation_html": "Dong, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating Earth’s orientation parameters and global temperature relationship using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3196,7 +3257,7 @@
   ]
  },
  {
-  "id": "hs-27",
+  "id": "hs-28",
   "section": "hs",
   "citation_html": "Johari, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Periodicities in sunspot activity and volcanic eruptions: A wavelet analysis. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3211,7 +3272,7 @@
   ]
  },
  {
-  "id": "hs-28",
+  "id": "hs-29",
   "section": "hs",
   "citation_html": "Jeon, T., &amp; <strong>Marsellos</strong>, A. E. (2025). Predicting temporal lobe seizure onset windows using EEG feature extraction and regional correlation dynamics. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3222,7 +3283,7 @@
   ]
  },
  {
-  "id": "hs-29",
+  "id": "hs-30",
   "section": "hs",
   "citation_html": "Budhani, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Exploring the role of stress in seizure frequency among females: A comparative EEG study. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
@@ -3235,7 +3296,7 @@
   ]
  },
  {
-  "id": "hs-30",
+  "id": "hs-31",
   "section": "hs",
   "citation_html": "Vedant Balani, <strong>Marsellos</strong> A.E.,(2025). Using Artificial Neural Networks and Kolmogorov-Zurbenko Filtering to Predict Future Sunspot Numbers and Temperatures. ISEF competition. Charles Dugan Long Island Science and Engineering Fair 2025.",
   "year": 2025,
@@ -3248,7 +3309,7 @@
   ]
  },
  {
-  "id": "hs-31",
+  "id": "hs-32",
   "section": "hs",
   "citation_html": "Shariff, Z., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Spatial analysis of strain distribution and displacement in Japan using ArcGIS and R: A case study of the March 11, 2011 earthquake [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3261,7 +3322,7 @@
   ]
  },
  {
-  "id": "hs-32",
+  "id": "hs-33",
   "section": "hs",
   "citation_html": "Balani, V., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Using artificial neural networks and Kolmogorov-Zurbenko filtering to predict future sunspot numbers and temperatures [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3276,7 +3337,7 @@
   ]
  },
  {
-  "id": "hs-33",
+  "id": "hs-34",
   "section": "hs",
   "citation_html": "Keer, N., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Examining seasonality: Signal detection analysis on Bitcoin price and natural phenomena [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3288,7 +3349,7 @@
   ]
  },
  {
-  "id": "hs-34",
+  "id": "hs-35",
   "section": "hs",
   "citation_html": "Mazzoleni, A., Raghavendra Rao, I., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Impact of geomagnetic storms on the U.S. electrical grid (2015–2023) [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3299,7 +3360,7 @@
   ]
  },
  {
-  "id": "hs-35",
+  "id": "hs-36",
   "section": "hs",
   "citation_html": "Lolla, H., Sharma, E., Lin, A., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Identifying and predicting the effect of sunspot numbers on global temperatures and climate change [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3310,7 +3371,7 @@
   ]
  },
  {
-  "id": "hs-36",
+  "id": "hs-37",
   "section": "hs",
   "citation_html": "Linder, E., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Analyzing the unmasking effect in China: Linking temperature, air pollution, and sunspot activity using Python [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3324,7 +3385,7 @@
   ]
  },
  {
-  "id": "hs-37",
+  "id": "hs-38",
   "section": "hs",
   "citation_html": "Sirichenko, D., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Wavelet analysis of GPS data for earthquake prediction in Japan: Investigating long-term patterns and periodicity [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
@@ -3336,7 +3397,7 @@
   ]
  },
  {
-  "id": "hs-38",
+  "id": "hs-39",
   "section": "hs",
   "citation_html": "Lin, Y., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Projection of the effect of rising temperature caused by climate change on sea level rise on Long Island [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
