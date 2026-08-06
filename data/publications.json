@@ -2923,7 +2923,9 @@
   "section": "hs",
   "citation_html": "Khan, A., &amp; <strong>Marsellos</strong>, A. E. (2026). Honest vs. naive accuracy in HRV-based arrhythmia classification: A subject-level validation study using the MIT-BIH Arrhythmia Database. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Akif_Khan_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "biomedical"
@@ -2934,7 +2936,9 @@
   "section": "hs",
   "citation_html": "Liu, C., &amp; <strong>Marsellos</strong>, A. E. (2026). An island reshaped from within: 34 years of coastal and inland water change on Belitung Island, Indonesia, measured in R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Chace_Liu_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "geospatial"
@@ -2945,7 +2949,9 @@
   "section": "hs",
   "citation_html": "Liao, C., &amp; <strong>Marsellos</strong>, A. E. (2026). Tracking EEG band power through general anesthesia in R: Slow waves rise gradually and before the recorded loss of consciousness. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Chloe_Liao_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "biomedical"
@@ -2956,7 +2962,9 @@
   "section": "hs",
   "citation_html": "Demma, G., &amp; <strong>Marsellos</strong>, A. E. (2026). Mapping where Rumson floods: A sea-level-rise simulation of the Navesink and Shrewsbury watershed. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Giuliana_Demma_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "geospatial",
@@ -2968,7 +2976,9 @@
   "section": "hs",
   "citation_html": "Amin, R., &amp; <strong>Marsellos</strong>, A. E. (2026). Comparing three GPS noise filters: Which best recovers a clean signal buried in noise. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Riyaan_Amin_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "tectonics"
@@ -2979,7 +2989,9 @@
   "section": "hs",
   "citation_html": "Johari, S., &amp; <strong>Marsellos</strong>, A. E. (2026). Sunspots, volcanic eruptions and earthquakes in R: Periodicities and correlations. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Sofia_Johari_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "time-series",
@@ -2993,7 +3005,9 @@
   "section": "hs",
   "citation_html": "Lian, T., &amp; <strong>Marsellos</strong>, A. E. (2026). Resting-state EEG markers of Alzheimer’s disease: Spectral power and signal complexity. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, August 2026.",
   "year": 2026,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Tiger_Lian_2026.pdf"
+  },
   "students": "hs",
   "areas": [
    "time-series",
