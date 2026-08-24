@@ -1758,7 +1758,10 @@
   "year": 2026,
   "links": {},
   "students": null,
-  "areas": []
+  "areas": [
+   "tectonics",
+   "petrology"
+  ]
  },
  {
   "id": "abstract-2",
