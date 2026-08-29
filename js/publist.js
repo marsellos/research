@@ -43,7 +43,10 @@ function pubItemHtml(p) {
     (a, b) => order.indexOf(a) - order.indexOf(b));
   for (const k of keys) {
     const ext = p.links[k].startsWith("http") ? ' target="_blank" rel="noopener"' : ' target="_blank"';
-    links += `<a href="${p.links[k]}"${ext}>${k}</a>`;
+    // Link keys name the FILE a visitor gets (paper, poster, presentation).
+    // For a book or chapter entry the "paper" PDF is the chapter itself.
+    const label = (k === "paper" && p.section === "book") ? "chapter" : k;
+    links += `<a href="${p.links[k]}"${ext}>${label}</a>`;
   }
   if (links) links = `<div class="pub-links">${links}</div>`;
   return `<div class="pub-item">${p.citation_html}${badges}${links}</div>`;
