@@ -116,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./book.html"> 
-<span class="menu-text">The Book</span></a>
+<span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -168,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
       <strong>Rider University</strong>.
     </p>
     <p>
-      <a class="btn btn-primary me-2" href="publications.html">Browse publications</a>
+      <a class="btn btn-primary me-2" id="browse-pubs-btn" href="publications.html">Browse publications</a>
       <a class="btn btn-outline-light" href="research.html">Explore research areas</a>
     </p>
   </div>
@@ -176,9 +176,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 <div class="grid mb-4" style="gap:1rem">
-  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=journal" title="Browse journal articles"><div class="stat-tile"><div class="stat-number">31</div><div class="stat-label">Peer-reviewed journal articles</div></div></a></div>
-  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=conference" title="Browse conference presentations"><div class="stat-tile"><div class="stat-number">168</div><div class="stat-label">Conference presentations</div></div></a></div>
-  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?students=any" title="Browse student co-authored publications"><div class="stat-tile"><div class="stat-number">150+</div><div class="stat-label">Student co-authored works</div></div></a></div>
+  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=journal" title="Browse journal articles"><div class="stat-tile"><div class="stat-number" id="stat-journal">33</div><div class="stat-label">Peer-reviewed journal articles</div></div></a></div>
+  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=conference" title="Browse conference presentations"><div class="stat-tile"><div class="stat-number" id="stat-conference">171</div><div class="stat-label">Conference presentations</div></div></a></div>
+  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?students=any" title="Browse student co-authored publications"><div class="stat-tile"><div class="stat-number" id="stat-students">160</div><div class="stat-label">Student co-authored works</div></div></a></div>
   <div class="g-col-6 g-col-md-3"><a class="stat-link" href="research-highschool.html" title="Meet the high school researchers"><div class="stat-tile"><div class="stat-number">44</div><div class="stat-label">High school researchers (2024–25)</div></div></a></div>
 </div>
 <section id="research-with-students" class="level2">
@@ -208,8 +208,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="the-book" class="level2">
-<h2 class="anchored" data-anchor-id="the-book">The book</h2>
+<section id="books" class="level2">
+<h2 class="anchored" data-anchor-id="books">Books</h2>
 <div class="book-card">
   <div class="grid" style="gap:1.5rem;align-items:center">
     <div class="g-col-12 g-col-md-3 text-center">
@@ -230,6 +230,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </div>
+<p>Earlier books, touristic guides, and book chapters are listed in the <a href="publications.html?type=book">publications database</a>.</p>
 </section>
 <section id="latest-peer-reviewed-work" class="level2">
 <h2 class="anchored" data-anchor-id="latest-peer-reviewed-work">Latest peer-reviewed work</h2>
@@ -241,6 +242,20 @@ loadPubs().then(pubs => {
   const latest = pubs.filter(p => p.section === "journal")
     .sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 4);
   renderPubList("latest-pubs", latest, { noYearHeadings: true });
+
+  // Keep the hero stat tiles and the Browse button in sync with the
+  // publications database. The numbers hard-coded above are only the
+  // no-JavaScript fallback; these live counts overwrite them.
+  const set = (id, n) => {
+    const el = document.getElementById(id);
+    if (el) el.textContent = n;
+  };
+  set("stat-journal", pubs.filter(p => p.section === "journal").length);
+  set("stat-conference",
+    pubs.filter(p => p.section === "proceedings" || p.section === "abstract").length);
+  set("stat-students", pubs.filter(p => p.students).length);
+  const btn = document.getElementById("browse-pubs-btn");
+  if (btn) btn.textContent = `Browse all ${pubs.length} publications`;
 });
 </script>
 

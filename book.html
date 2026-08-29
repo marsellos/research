@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The Book – Antonios E. Marsellos, Ph.D.</title>
+<title>Books – Antonios E. Marsellos, Ph.D.</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta name="twitter:title" content="The Book – Antonios E. Marsellos, Ph.D.">
+<meta name="twitter:title" content="Books – Antonios E. Marsellos, Ph.D.">
 <meta name="twitter:description" content="Data analytics, artificial intelligence, and computational methods for extracting knowledge from complex spatial and temporal Earth data. Research with high school and university students.">
 <meta name="twitter:image" content="https://marsellos.github.io/research/assets/cover.png">
 <meta name="twitter:image-height" content="3300">
@@ -116,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./book.html" aria-current="page"> 
-<span class="menu-text">The Book</span></a>
+<span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">The Book</h1>
+<h1 class="title">Books</h1>
 </div>
 
 
@@ -211,6 +211,17 @@ ul.task-list li input[type="checkbox"] {
 <section id="why-this-book" class="level2">
 <h2 class="anchored" data-anchor-id="why-this-book">Why this book</h2>
 <p>The book grew directly out of this research group: the same beginner-first R methodology used by <a href="research-highschool.html">high school researchers</a> and <a href="research-university.html">university students</a> who went from zero coding experience to conference posters and peer-reviewed papers. If you want to learn Earth data analytics the way they did, this is the path.</p>
+</section>
+<section id="all-books-chapters" class="level2">
+<h2 class="anchored" data-anchor-id="all-books-chapters">All books &amp; chapters</h2>
+<p>Books, touristic guides, and book chapters, rendered live from the publications database:</p>
+<div id="book-list"><p class="text-muted">Loading…</p></div>
+<script src="js/publist.js"></script>
+<script>
+loadPubs().then(pubs => {
+  renderPubList("book-list", pubs.filter(p => p.section === "book"));
+});
+</script>
 
 
 </section>

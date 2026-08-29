@@ -14,11 +14,11 @@
     "text": "Research with students\nI keep part of my research close to the students’ level of study and bring students into team projects, from first exposure to coding all the way to peer-reviewed publication. Student names appear as co-authors across conference proceedings, posters, and journal articles.\n\n\n\n  High School Research\n  Through the Hofstra University Summer Science Research Program (HUSSRP),\n  high school students run real research projects in R (from EEG seizure\n  detection to sunspot cycles and GPS ground motion) and present at\n  conferences. 17 students in 2024, 27 in 2025, and a 2026 IEEE conference\n  paper among the outcomes.\n  Meet the projects →\n\n\n\n\n  University Research\n  Undergraduate and graduate students join independent research studies\n  (GEOL-151), honors options, theses, and the NSF-funded GEOTeams program,\n  co-authoring over a hundred conference papers and journal articles on\n  floods, earthquakes, volcanoes, climate, and AI.\n  See student research →"
   },
   {
-    "objectID": "index.html#the-book",
-    "href": "index.html#the-book",
+    "objectID": "index.html#books",
+    "href": "index.html#books",
     "title": "Antonios E. Marsellos, Ph.D.",
-    "section": "The book",
-    "text": "The book\n\n  \n    \n      \n        \n    \n    \n      R for Earth and Sustainability Data Analytics (2026)\n      A practical introduction to GIS, time series, modeling, and\n      environmental applications. Learn to analyze real Earth and\n      environmental data from scratch in R, no prior coding or statistics\n      experience required. Available in paperback, hardcover, and Kindle.\n      \n        Get it on Amazon\n        Free sample chapter (PDF)\n        About the book →"
+    "section": "Books",
+    "text": "Books\n\n  \n    \n      \n        \n    \n    \n      R for Earth and Sustainability Data Analytics (2026)\n      A practical introduction to GIS, time series, modeling, and\n      environmental applications. Learn to analyze real Earth and\n      environmental data from scratch in R, no prior coding or statistics\n      experience required. Available in paperback, hardcover, and Kindle.\n      \n        Get it on Amazon\n        Free sample chapter (PDF)\n        About the book →\n      \n    \n  \n\nEarlier books, touristic guides, and book chapters are listed in the publications database."
   },
   {
     "objectID": "index.html#latest-peer-reviewed-work",
@@ -56,11 +56,11 @@
     "text": "Publications co-authored with university students\nFiltered from the full publication database. Each entry links to the DOI, paper, or poster where available.\n\nLoading…"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Areas",
     "section": "",
-    "text": "A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with university students and high school students are badged. Mentored research is the core of this research group. Where available, each entry links to the DOI and to local copies of the paper, abstract, poster, or presentation.\n\n\n\n\n\n  \n    Type\n    \n  \n  \n    Students\n    \n  \n  \n    \n      Research area\n      \n    \n    \n      Year\n      \n    \n    \n      \n    \n  \n  \n    \n    Reset filters\n  \n\n\nLoading publications…"
+    "text": "My research develops data analytics, artificial intelligence, and computational methods for extracting knowledge from complex spatial and temporal data. The methods come first; sustainability and the environment, earthquakes, volcanoes, floods, climate, biomedical signals, and markets are the applications. Publications often belong to several areas, and every count below links to the filtered publication list.\nI teach and advise in the Department of Geology, Environment, and Sustainability at Hofstra University, and students majoring in Sustainability are welcome in every one of these areas. The first area below gathers the environmental and sustainability work: water quality, air quality, flooding, coastal change, emissions, and the data skills that turn those records into evidence. The same skills are taught step by step in my 2026 book R for Earth and Sustainability Data Analytics, written with Dr. Katerina Tsakiri.\nI always keep open space for new topics. If you are working on a sustainability question that is not listed here, or you want to bring your own, write to me and we can shape a project around it.\n\nLoading research areas…"
   },
   {
     "objectID": "about.html",
@@ -112,39 +112,46 @@
     "text": "Contact\nDr. Antonios E. Marsellos Department of Geology, Environment & Sustainability Gittleson Hall 138, 114 Hofstra University Hempstead, NY 11549-1140\n📧 antonios.marsellos@hofstra.edu 🌐 Book website · GitHub · Google Scholar · ResearchGate"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with university students and high school students are badged. Mentored research is the core of this research group. Where available, each entry links to the DOI and to local copies of the paper, abstract, poster, or presentation.\n\n\n\n\n\n  \n    Type\n    \n  \n  \n    Students\n    \n  \n  \n    \n      Research area\n      \n    \n    \n      Year\n      \n    \n    \n      \n    \n  \n  \n    \n    Reset filters\n  \n\n\nLoading publications…"
+  },
+  {
     "objectID": "book.html",
     "href": "book.html",
-    "title": "The Book",
+    "title": "Books",
     "section": "",
     "text": "A Practical Introduction to GIS, Time Series,\n      Modeling, and Environmental Applications · Earth Data Analytics Press, 2026\n      Learn to analyze real Earth and environmental data from scratch in\n      R, with no prior coding or statistics experience required.\n      A beginner-first approach that breaks the ice of coding and builds up to\n      GIS mapping, time-series analysis, modeling, and real environmental\n      applications, developed through a decade of teaching university and\n      high school researchers.\n      \n        Paperback & Hardcover on Amazon\n        Kindle edition\n      \n      \n        📖 Download the FREE sample chapter (PDF)\n        Free R-GEO cheat sheet"
   },
   {
     "objectID": "book.html#try-before-you-buy",
     "href": "book.html#try-before-you-buy",
-    "title": "The Book",
+    "title": "Books",
     "section": "Try before you buy",
     "text": "Try before you buy\nThe free sample contains the complete first chapter (~60 pages), enough to write your first R code and see the book’s beginner-first style. No email or sign-up required: Download the sample chapter."
   },
   {
     "objectID": "book.html#companion-website",
     "href": "book.html#companion-website",
-    "title": "The Book",
+    "title": "Books",
     "section": "Companion website",
     "text": "Companion website\nThe book has a full companion site with code, datasets for every chapter, instructor resources, and updates: marsellos.github.io/rgeo\n\nCode & data by chapter\nDatasets\nFor instructors\nUpdates & errata"
   },
   {
     "objectID": "book.html#why-this-book",
     "href": "book.html#why-this-book",
-    "title": "The Book",
+    "title": "Books",
     "section": "Why this book",
     "text": "Why this book\nThe book grew directly out of this research group: the same beginner-first R methodology used by high school researchers and university students who went from zero coding experience to conference posters and peer-reviewed papers. If you want to learn Earth data analytics the way they did, this is the path."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Areas",
-    "section": "",
-    "text": "My research develops data analytics, artificial intelligence, and computational methods for extracting knowledge from complex spatial and temporal data. The methods come first; sustainability and the environment, earthquakes, volcanoes, floods, climate, biomedical signals, and markets are the applications. Publications often belong to several areas, and every count below links to the filtered publication list.\nI teach and advise in the Department of Geology, Environment, and Sustainability at Hofstra University, and students majoring in Sustainability are welcome in every one of these areas. The first area below gathers the environmental and sustainability work: water quality, air quality, flooding, coastal change, emissions, and the data skills that turn those records into evidence. The same skills are taught step by step in my 2026 book R for Earth and Sustainability Data Analytics, written with Dr. Katerina Tsakiri.\nI always keep open space for new topics. If you are working on a sustainability question that is not listed here, or you want to bring your own, write to me and we can shape a project around it.\n\nLoading research areas…"
+    "objectID": "book.html#all-books-chapters",
+    "href": "book.html#all-books-chapters",
+    "title": "Books",
+    "section": "All books & chapters",
+    "text": "All books & chapters\nBooks, touristic guides, and book chapters, rendered live from the publications database:\nLoading…"
   },
   {
     "objectID": "research-highschool.html",
