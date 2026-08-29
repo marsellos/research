@@ -3,6 +3,7 @@
 // so adding a publication means editing one JSON file only.
 
 const PUB_AREAS = {
+  "sustainability": "Sustainability, Environment & Resilience",
   "ai-ml": "Artificial Intelligence & Machine Learning",
   "time-series": "Time Series, Forecasting & Signal Detection",
   "geospatial": "GIS, Remote Sensing & Geospatial Analytics",
