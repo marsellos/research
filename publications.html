@@ -167,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with <strong>university students</strong> and <strong>high school students</strong> are badged — mentored research is the core of this research group. Where available, each entry links to the <strong>DOI</strong> and to local copies of the <strong>paper</strong>, <strong>abstract</strong>, <strong>poster</strong>, or <strong>presentation</strong>.</p>
+<p>A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with <strong>university students</strong> and <strong>high school students</strong> are badged. Mentored research is the core of this research group. Where available, each entry links to the <strong>DOI</strong> and to local copies of the <strong>paper</strong>, <strong>abstract</strong>, <strong>poster</strong>, or <strong>presentation</strong>.</p>
 <div class="pub-total-banner" id="pub-total"></div>
 
 <div class="grid mb-4" style="gap:1rem" id="pub-stats"></div>
@@ -302,7 +302,7 @@ ul.task-list li input[type="checkbox"] {
     ).join("");
 
     // Clicking a stat card applies exactly the filter it counts (clearing
-    // the others) and jumps to the list — no page reload.
+    // the others) and jumps to the list, with no page reload.
     document.querySelectorAll("#pub-stats a.stat-link").forEach(a =>
       a.addEventListener("click", e => {
         e.preventDefault();
