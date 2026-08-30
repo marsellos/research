@@ -2849,7 +2849,7 @@
  {
   "id": "book-1",
   "section": "book",
-  "citation_html": "<strong>Marsellos</strong>, A. E. (2026, in press). The rocks also came back / Και οι βράχοι γύρισαν πίσω: The story of Kythera told by its stones, in English and Greek. Bilingual facing-page edition.",
+  "citation_html": "<strong>Marsellos</strong>, A. E. (2026, in press). The rocks also came back / Και οι βράχοι γύρισαν πίσω: The story of Kythera told by its stones, in English and Greek. Bilingual facing-page edition. A scientific book written for non-geologists, disseminating geoscience to the public: the island's residents and the worldwide Kytherian diaspora.",
   "year": 2026,
   "links": {},
   "students": null,
@@ -2871,9 +2871,10 @@
  {
   "id": "book-3",
   "section": "book",
-  "citation_html": "Farmer, E.C., Hecht, D., Bennington, J.B., <strong>Marsellos</strong>, A.E., Bernhardt, J.E., 2023. GEOTeams: An innovative multilevel team approach in summer research pathways to geoscience. Book title: GEOPATHS – Broadening the Voices in Geosciences: Pathways to innovative Pedagogy and Professional Development. Editors: Jamie MacDonald, Renee Clary, Ruby Broadway, Reginald Archer, Eds. Geological Society of America.",
-  "year": 2023,
+  "citation_html": "Farmer, E.C., Hecht, D., Bennington, J.B., <strong>Marsellos</strong>, A.E., &amp; Bernhardt, J.E. (2025). GEOTeams: Piloting an innovative multilevel team approach to creating summer research pathways to geoscience. In J.H. MacDonald Jr., R. M. Clary, R. S. Archer &amp; R. L. Broadway (Eds.), GEOPAths - Broadening the Voices in Geosciences: Pathways to Innovative Pedagogy and Professional Development (GSA Special Paper 564). Geological Society of America, 564, p. 1-14.",
+  "year": 2025,
   "links": {
+   "doi": "https://doi.org/10.1130/2025.2564(07)",
    "presentation": "posters/Farmer_2023_presentation.pdf"
   },
   "students": null,
