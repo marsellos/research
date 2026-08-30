@@ -2849,6 +2849,15 @@
  {
   "id": "book-1",
   "section": "book",
+  "citation_html": "<strong>Marsellos</strong>, A. E. (2026, in press). The rocks also came back / Και οι βράχοι γύρισαν πίσω: The story of Kythera told by its stones, in English and Greek. Bilingual facing-page edition.",
+  "year": 2026,
+  "links": {},
+  "students": null,
+  "areas": []
+ },
+ {
+  "id": "book-2",
+  "section": "book",
   "citation_html": "<strong>Marsellos</strong>, A. E., &amp; Tsakiri, K. G. (2026). R for Earth and sustainability data analytics: A practical introduction to GIS, time series, modeling, and environmental applications (1st ed.). Earth Data Analytics Press.",
   "year": 2026,
   "links": {},
@@ -2860,7 +2869,7 @@
   ]
  },
  {
-  "id": "book-2",
+  "id": "book-3",
   "section": "book",
   "citation_html": "Farmer, E.C., Hecht, D., Bennington, J.B., <strong>Marsellos</strong>, A.E., Bernhardt, J.E., 2023. GEOTeams: An innovative multilevel team approach in summer research pathways to geoscience. Book title: GEOPATHS – Broadening the Voices in Geosciences: Pathways to innovative Pedagogy and Professional Development. Editors: Jamie MacDonald, Renee Clary, Ruby Broadway, Reginald Archer, Eds. Geological Society of America.",
   "year": 2023,
@@ -2873,7 +2882,7 @@
   ]
  },
  {
-  "id": "book-3",
+  "id": "book-4",
   "section": "book",
   "citation_html": "Stefanakis, A, Zouzias, D, <strong>Marsellos</strong>, A.E., 2015. Groundwater Pollution: Human and Natural Sources and Risks. 82-102. In book: Environmental Science and Engineering Vol. 4: Water Pollution, Edition: 1st Publisher: Stadium Press LLCEditors: J.N. Govil.",
   "year": 2015,
@@ -2887,7 +2896,7 @@
   ]
  },
  {
-  "id": "book-4",
+  "id": "book-5",
   "section": "book",
   "citation_html": "<strong>Marsellos</strong>, A.E., 1999. Hellenic-Kytherian diaspora phone book. <strong>Marsellos</strong>, A.E. Press.",
   "year": 1999,
@@ -2896,7 +2905,7 @@
   "areas": []
  },
  {
-  "id": "book-5",
+  "id": "book-6",
   "section": "book",
   "citation_html": "Travel to Kythera. Touristic guide. (years: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007), <strong>Marsellos</strong>, A.E. Press.",
   "year": 2000,
@@ -2905,7 +2914,7 @@
   "areas": []
  },
  {
-  "id": "book-6",
+  "id": "book-7",
   "section": "book",
   "citation_html": "Business postcards: Kytherean best places, 1999. <strong>Marsellos</strong>, A.E. Press.",
   "year": 1999,
