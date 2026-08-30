@@ -236,13 +236,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="hs-pubs"><p class="text-muted">Loading…</p></div>
 <script>
 loadPubs().then(pubs => {
-  renderPubList("hs-pubs", pubs.filter(p => p.students === "hs"));
+  renderPubList("hs-pubs", pubs.filter(p => p.students === "hs" || p.students === "both"));
 });
 </script>
 </section>
 <section id="interested-in-joining" class="level2">
 <h2 class="anchored" data-anchor-id="interested-in-joining">Interested in joining?</h2>
-<p>HUSSRP applications are handled through Hofstra University’s Summer Science Research Program. Feel free to reach out at <a href="mailto:antonios.marsellos@hofstra.edu">antonios.marsellos@hofstra.edu</a> to discuss project ideas in Earth science, data analytics, or biomedical signal analysis.</p>
+<p>HUSSRP applications are handled through Hofstra University’s Summer Science Research Program. You can reach me at <a href="mailto:antonios.marsellos@hofstra.edu">antonios.marsellos@hofstra.edu</a> to discuss project ideas in Earth science, data analytics, or biomedical signal analysis.</p>
 
 
 </section>

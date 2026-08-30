@@ -32,9 +32,12 @@ function loadPubs() {
 
 function pubItemHtml(p) {
   let badges = "";
-  if (p.students === "hs") {
+  // "both" = a multilevel-team paper with a high-school AND a university student
+  // co-author, so it earns both badges and belongs on both research pages.
+  if (p.students === "hs" || p.students === "both") {
     badges += ' <span class="pub-badge pub-badge-hs">High School</span>';
-  } else if (p.students === "university") {
+  }
+  if (p.students === "university" || p.students === "both") {
     badges += ' <span class="pub-badge pub-badge-uni">Student co-authored</span>';
   }
   let links = "";
