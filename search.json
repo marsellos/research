@@ -28,41 +28,6 @@
     "text": "Latest peer-reviewed work\nLoading…\nAll publications →"
   },
   {
-    "objectID": "research-university.html",
-    "href": "research-university.html",
-    "title": "Research with University Students",
-    "section": "",
-    "text": "With students at a Hofstra University research poster day.\nUndergraduate and graduate students are co-authors, not assistants, in my research group. Since 2015, students at Hofstra University (and previously the University of Brighton and University of Florida) have co-authored more than a hundred conference papers, posters, and peer-reviewed journal articles on floods, earthquakes, volcanoes, climate, groundwater, and AI."
-  },
-  {
-    "objectID": "research-university.html#how-students-join-the-group",
-    "href": "research-university.html#how-students-join-the-group",
-    "title": "Research with University Students",
-    "section": "How students join the group",
-    "text": "How students join the group\n\nIndependent Research Study (GEOL-151): every semester, students run 1–3 credit individual projects. Recent topics include a live R–GIS earthquake monitoring system for New York, sandstorm detection with GIS, hurricane periodicity forecasting, sunspot–temperature analysis, LiDAR erosion mapping of Long Island, and AI for K-12 Earth science education.\nHonors options (INHO) and theses: individually negotiated honors research, B.S./M.S. theses, and Ph.D. co-supervision.\nNSF GEOTeams (2019–2023): the NSF-funded GEOTeams: Summer Research Pathways to Geoscience program ($385,834; co-PI) built multilevel research teams that took students on funded fieldwork to the active volcanoes of Greece: Nisyros, Santorini, and Korinthos.\nConference pipeline: the group presents every year at the Conference on the Geology of Long Island and Metropolitan New York, Hofstra’s Undergraduate and Graduate Research Days, the Mohawk Watershed Symposium, GSA and AGU meetings, and the NJBDA Big Data Symposium."
-  },
-  {
-    "objectID": "research-university.html#supervised-theses-dissertations",
-    "href": "research-university.html#supervised-theses-dissertations",
-    "title": "Research with University Students",
-    "section": "Supervised theses & dissertations",
-    "text": "Supervised theses & dissertations\nPh.D. (co-supervisor)\n\nLiam Hardy (Univ. of Brighton): Rare earth element behaviour in surface environments (funded £60,000/3 yrs)\nKhawla Mahmood (Univ. of Brighton): Enhancing river flood prediction using multivariate time series methods\nEva Tita (National Technical Univ. of Athens): GPS noise reduction and time series analysis of ground deformation in Greece\n\nM.S. (chair or co-supervisor)\n\nNikolas Braunwart (2022, Univ. of Bolton): A sustainable volcanic thermometer for monitoring active volcanoes\nCarolina A. Urrea (2020, Hofstra): Spatial examination of urban green space in Hempstead, NY\nKeshanti Nandlall (2018, Hofstra): Environmental policy and mangrove evolution in Tampa Bay, FL\nMorgan Jones (2018, Hofstra): Sustainability of residential life and monitoring sensors on the Hellenic Volcanic Arc\nAntonis Kavalieros (2016, Univ. of Athens): Data mining and online warning system for flooding prediction\n\nB.S. (selected)\n\nJ.A. Foster (2012, Univ. of Florida): LiDAR flood-trigger prediction, top-ten undergraduate research across the university\nNine thesis students at the University of Brighton (2014–15), from forecasting SOI with neural networks to geochemical mapping of the Troodos ophiolite"
-  },
-  {
-    "objectID": "research-university.html#publications-co-authored-with-university-students",
-    "href": "research-university.html#publications-co-authored-with-university-students",
-    "title": "Research with University Students",
-    "section": "Publications co-authored with university students",
-    "text": "Publications co-authored with university students\nFiltered from the full publication database. Each entry links to the DOI, paper, or poster where available.\n\nLoading…"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Areas",
-    "section": "",
-    "text": "My research develops data analytics, artificial intelligence, and computational methods for extracting knowledge from complex spatial and temporal data. The methods come first; sustainability and the environment, earthquakes, volcanoes, floods, climate, biomedical signals, and markets are the applications. Publications often belong to several areas, and every count below links to the filtered publication list.\nI teach and advise in the Department of Geology, Environment, and Sustainability at Hofstra University, and students majoring in Sustainability are welcome in every one of these areas. The first area below gathers the environmental and sustainability work: water quality, air quality, flooding, coastal change, emissions, and the data skills that turn those records into evidence. The same skills are taught step by step in my 2026 book R for Earth and Sustainability Data Analytics, written with Dr. Katerina Tsakiri.\nI always keep open space for new topics. If you are working on a sustainability question that is not listed here, or you want to bring your own, write to me and we can shape a project around it.\n\nLoading research areas…"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -75,6 +40,13 @@
     "title": "About",
     "section": "Biography",
     "text": "Biography\nI am an Associate Professor in Geo-analytics in the Department of Geology, Environment & Sustainability at Hofstra University (New York) and an Adjunct Associate Professor of Business at Rider University’s Norm Brodsky College of Business, where I teach in the Business Honors Program.\nMy research develops data analytics, artificial intelligence, and computational methods that draw knowledge out of complex spatial and temporal data. The methods come first, and the applications follow: floods and groundwater, earthquakes and ground movement, volcanic activity, climate and solar signals, biomedical signals, and business analytics.\nIn 2017 I designed and built the department’s advanced GIS laboratory and its Computer Big Data Laboratory, and both have been in continuous use since. The work there separates long-term, seasonal, and short-term components in very noisy records, using decomposition of time series, Kolmogorov-Zurbenko filtering, and wavelet and spectral analysis, and it forecasts and classifies with artificial neural networks and random forests. The records come from continuous monitoring stations, from geodetic (GNSS, GPS) sensors, and from remote sensing: LiDAR, drone thermal and optical scanning, and InSAR.\nSustainability and the environment run through most of this work: water quality in Hempstead Bay and in New York City harbors, nitrate and contamination signals in Long Island groundwater, flood risk and shoreline change on Fire Island and in the Rockaways, urban flood reconstruction in New York City, particulate contaminants in snowfall and airborne particulate matter during extreme dust events, sinkholes and landslides, and sustainable tourism and farming beside active volcanoes. With students I keep a volcanic monitoring network running on the Hellenic Volcanic Arc at Santorini, Nisyros, and Sousaki, where surface temperature sensors and drone thermal scanning are combined with methods that separate the atmospheric effect from the volcanic signal.\nI like to keep part of my research projects close to students’ level of study, bringing students into team projects with enthusiasm and encouraging them to develop their own ideas. High school researchers, undergraduate and graduate students, and the NSF-funded GEOTeams program work with me on real data and present the results at conferences. The same data skills are set out step by step in my book R for Earth and Sustainability Data Analytics, written with Dr. Katerina Tsakiri."
+  },
+  {
+    "objectID": "about.html#research-funding",
+    "href": "about.html#research-funding",
+    "title": "About",
+    "section": "Research funding",
+    "text": "Research funding\n\nMy research and student programs have been supported by more than 30 funded grants, fellowships, and awards since 2006, as principal investigator or co-principal investigator, from funders in the United States, the United Kingdom, and Greece. Highlights:\n\nNational Science Foundation (NSF): GEOTeams (IUSE GEOPATHS program), multilevel summer research teams carrying students from high school to graduate level through funded geoscience fieldwork, co-PI (2019–2023)\nLong Island Regional Planning Council: two multi-year water quality monitoring and analysis programs for Long Island’s bays, co-PI (2019, 2021)\nThe New York Community Trust (Long Island Community Foundation): identifying contamination sources in Oyster Bay and Cold Spring Harbor, co-PI (2019)\nHellenic Government (Municipality of Nisyros): upgrading the monitoring of hydrothermal gases and heat distribution on the Nisyros volcano, co-PI (2018)\nUnited Kingdom research schemes (University of Brighton): three continuous GPS stations on the Hellenic arc (Kythera, Peloponnese, Santorini), rare earth element deposit research, and paleo-shoreline mapping for earthquake and tsunami risk assessment, PI and early-career awardee (2013–2015)\nRider University Davis Fellowships: flood forecasting and volcanic surface temperature prediction models, co-PI (2017–2019)\nHofstra University: Faculty Research Development Grants, Presidential Research Awards, HUSSRP summer research program support, and community-engaged learning grants (PI)\nEarlier support from UNESCO, the Geological Society of America, and the Institute of Kytheraismos (Greece)\n\nI have also contributed to funded projects led by colleagues, including an NSF Major Research Instrumentation spectroscopy laboratory at Union College and an American Chemical Society study of radiation damage in zircon."
   },
   {
     "objectID": "about.html#education",
@@ -112,13 +84,6 @@
     "text": "Contact\nDr. Antonios E. Marsellos Department of Geology, Environment & Sustainability Gittleson Hall 138, 114 Hofstra University Hempstead, NY 11549-1140\n📧 antonios.marsellos@hofstra.edu 🌐 Book website · GitHub · Google Scholar · ResearchGate"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with university students and high school students are badged. Mentored research is the core of this research group. Where available, each entry links to the DOI and to local copies of the paper, abstract, poster, or presentation.\n\n\n\n\n\n  \n    Type\n    \n  \n  \n    Students\n    \n  \n  \n    \n      Research area\n      \n    \n    \n      Year\n      \n    \n    \n      \n    \n  \n  \n    \n    Reset filters\n  \n\n\nLoading publications…"
-  },
-  {
     "objectID": "book.html",
     "href": "book.html",
     "title": "Books",
@@ -152,6 +117,48 @@
     "title": "Books",
     "section": "All books & chapters",
     "text": "All books & chapters\nBooks, touristic guides, and book chapters, rendered live from the publications database:\nLoading…"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A complete, searchable record of peer-reviewed journal articles, conference proceedings and abstracts, books and chapters, theses, and high-school research presentations. Entries co-authored with university students and high school students are badged. Mentored research is the core of this research group. Where available, each entry links to the DOI and to local copies of the paper, abstract, poster, or presentation.\n\n\n\n\n\n  \n    Type\n    \n  \n  \n    Students\n    \n  \n  \n    \n      Research area\n      \n    \n    \n      Year\n      \n    \n    \n      \n    \n  \n  \n    \n    Reset filters\n  \n\n\nLoading publications…"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Areas",
+    "section": "",
+    "text": "My research develops data analytics, artificial intelligence, and computational methods for extracting knowledge from complex spatial and temporal data. The methods come first; sustainability and the environment, earthquakes, volcanoes, floods, climate, biomedical signals, and markets are the applications. Publications often belong to several areas, and every count below links to the filtered publication list.\nI teach and advise in the Department of Geology, Environment, and Sustainability at Hofstra University, and students majoring in Sustainability are welcome in every one of these areas. The first area below gathers the environmental and sustainability work: water quality, air quality, flooding, coastal change, emissions, and the data skills that turn those records into evidence. The same skills are taught step by step in my 2026 book R for Earth and Sustainability Data Analytics, written with Dr. Katerina Tsakiri.\nI always keep open space for new topics. If you are working on a sustainability question that is not listed here, or you want to bring your own, write to me and we can shape a project around it.\n\nLoading research areas…"
+  },
+  {
+    "objectID": "research-university.html",
+    "href": "research-university.html",
+    "title": "Research with University Students",
+    "section": "",
+    "text": "With students at a Hofstra University research poster day.\nUndergraduate and graduate students are co-authors, not assistants, in my research group. Since 2015, students at Hofstra University (and previously the University of Brighton and University of Florida) have co-authored more than a hundred conference papers, posters, and peer-reviewed journal articles on floods, earthquakes, volcanoes, climate, groundwater, and AI."
+  },
+  {
+    "objectID": "research-university.html#how-students-join-the-group",
+    "href": "research-university.html#how-students-join-the-group",
+    "title": "Research with University Students",
+    "section": "How students join the group",
+    "text": "How students join the group\n\nIndependent Research Study (GEOL-151): every semester, students run 1–3 credit individual projects. Recent topics include a live R–GIS earthquake monitoring system for New York, sandstorm detection with GIS, hurricane periodicity forecasting, sunspot–temperature analysis, LiDAR erosion mapping of Long Island, and AI for K-12 Earth science education.\nHonors options (INHO) and theses: individually negotiated honors research, B.S./M.S. theses, and Ph.D. co-supervision.\nNSF GEOTeams (2019–2023): the NSF-funded GEOTeams: Summer Research Pathways to Geoscience program (co-PI) built multilevel research teams that took students on funded fieldwork to the active volcanoes of Greece: Nisyros, Santorini, and Korinthos.\nConference pipeline: the group presents every year at the Conference on the Geology of Long Island and Metropolitan New York, Hofstra’s Undergraduate and Graduate Research Days, the Mohawk Watershed Symposium, GSA and AGU meetings, and the NJBDA Big Data Symposium."
+  },
+  {
+    "objectID": "research-university.html#supervised-theses-dissertations",
+    "href": "research-university.html#supervised-theses-dissertations",
+    "title": "Research with University Students",
+    "section": "Supervised theses & dissertations",
+    "text": "Supervised theses & dissertations\nPh.D. (co-supervisor)\n\nLiam Hardy (Univ. of Brighton): Rare earth element behaviour in surface environments (funded £60,000/3 yrs)\nKhawla Mahmood (Univ. of Brighton): Enhancing river flood prediction using multivariate time series methods\nEva Tita (National Technical Univ. of Athens): GPS noise reduction and time series analysis of ground deformation in Greece\n\nM.S. (chair or co-supervisor)\n\nNikolas Braunwart (2022, Univ. of Bolton): A sustainable volcanic thermometer for monitoring active volcanoes\nCarolina A. Urrea (2020, Hofstra): Spatial examination of urban green space in Hempstead, NY\nKeshanti Nandlall (2018, Hofstra): Environmental policy and mangrove evolution in Tampa Bay, FL\nMorgan Jones (2018, Hofstra): Sustainability of residential life and monitoring sensors on the Hellenic Volcanic Arc\nAntonis Kavalieros (2016, Univ. of Athens): Data mining and online warning system for flooding prediction\n\nB.S. (selected)\n\nJ.A. Foster (2012, Univ. of Florida): LiDAR flood-trigger prediction, top-ten undergraduate research across the university\nNine thesis students at the University of Brighton (2014–15), from forecasting SOI with neural networks to geochemical mapping of the Troodos ophiolite"
+  },
+  {
+    "objectID": "research-university.html#publications-co-authored-with-university-students",
+    "href": "research-university.html#publications-co-authored-with-university-students",
+    "title": "Research with University Students",
+    "section": "Publications co-authored with university students",
+    "text": "Publications co-authored with university students\nFiltered from the full publication database. Each entry links to the DOI, paper, or poster where available.\n\nLoading…"
   },
   {
     "objectID": "research-highschool.html",
