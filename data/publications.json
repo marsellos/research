@@ -49,20 +49,6 @@
   ]
  },
  {
-  "id": "journal-4",
-  "section": "journal",
-  "citation_html": "Farmer, E.C., Hecht, D., Bennington, J.B., <strong>Marsellos</strong>, A.E., &amp; Bernhardt, J.E. (2025). GEOTeams: Piloting an innovative multilevel team approach to creating summer research pathways to geoscience. In J.H. MacDonald Jr., R. M. Clary, R. S. Archer &amp; R. L. Broadway (Eds.), GEOPAths — Broadening the Voices in Geosciences: Pathways to Innovative Pedagogy and Professional Development (GSA Special Paper 564). Geological Society of America, 564, p. 1–14.",
-  "year": 2025,
-  "links": {
-   "doi": "https://doi.org/10.1130/2025.2564(07)",
-   "paper": "pdfs/Farmer_2025.pdf"
-  },
-  "students": null,
-  "areas": [
-   "education"
-  ]
- },
- {
   "id": "journal-5",
   "section": "journal",
   "citation_html": "Al-Saeedi, K., Zhou, D., Fish, A., Tsakiri, K., &amp; <strong>Marsellos</strong>, A. (2025). A methodological comparison of forecasting models using KZ decomposition and walk-forward validation. Mathematics, 13(3410).",
@@ -2851,6 +2837,7 @@
   "year": 2025,
   "links": {
    "doi": "https://doi.org/10.1130/2025.2564(07)",
+   "paper": "pdfs/Farmer_2025.pdf",
    "presentation": "posters/Farmer_2023_presentation.pdf"
   },
   "students": null,
