@@ -3451,7 +3451,9 @@
   "section": "hs",
   "citation_html": "Sirichenko, D., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Wavelet analysis of GPS data for earthquake prediction in Japan: Investigating long-term patterns and periodicity [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_David_Sirichenko_2024_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "time-series",
