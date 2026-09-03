@@ -1358,6 +1358,21 @@
   ]
  },
  {
+  "id": "proceedings-62",
+  "section": "proceedings",
+  "citation_html": "<strong>Marsellos</strong>, A.E., Bourgeois, J., Mead N., Achek, M., Tentomas, G., Tsakiri, K.G., Kyriakopoulos, K. 2023. Detection of volcanic surface temperature anomalies using drone thermal scanning: An application on the Hellenic Volcano of Nisyros. ICEG2023-419. International Congress on Environmental Geotechnics, Crete, Greece, 25-28 June.",
+  "year": 2023,
+  "links": {
+   "poster": "posters/Marsellos_2023a_poster.pdf"
+  },
+  "students": "both",
+  "areas": [
+   "geospatial",
+   "volcano",
+   "climate"
+  ]
+ },
+ {
   "id": "proceedings-63",
   "section": "proceedings",
   "citation_html": "Tsakiri, K.G., <strong>Marsellos</strong>, A.E., Kyriakopoulos, K., 2023. Time series analysis of volcanic activity on an active European volcanic island: Enhancing a sustainable tourism and business resilience. ICEG2023-418. International Congress on Environmental Geotechnics, Crete, Greece, 25-28 June.",
@@ -3175,7 +3190,9 @@
   "section": "hs",
   "citation_html": "Li, J., &amp; <strong>Marsellos</strong>, A. E. (2025). Sea level rise and flood risk in Long Island, New York. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Justin_Li_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "sustainability",
@@ -3282,7 +3299,9 @@
   "section": "hs",
   "citation_html": "Dong, S., &amp; <strong>Marsellos</strong>, A. E. (2025). Investigating Earth’s orientation parameters and global temperature relationship using R. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Shufan_Dong_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "climate"
@@ -3308,7 +3327,9 @@
   "section": "hs",
   "citation_html": "Jeon, T., &amp; <strong>Marsellos</strong>, A. E. (2025). Predicting temporal lobe seizure onset windows using EEG feature extraction and regional correlation dynamics. Hofstra University Summer Science Research Program. Students Conference at Hofstra University, October 2025.",
   "year": 2025,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Theo_Jeon_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "biomedical"
@@ -3332,7 +3353,9 @@
   "section": "hs",
   "citation_html": "Vedant Balani, <strong>Marsellos</strong> A.E.,(2025). Using Artificial Neural Networks and Kolmogorov-Zurbenko Filtering to Predict Future Sunspot Numbers and Temperatures. ISEF competition. Charles Dugan Long Island Science and Engineering Fair 2025.",
   "year": 2025,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Vedant_Balani_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "ai-ml",
@@ -3373,7 +3396,9 @@
   "section": "hs",
   "citation_html": "Keer, N., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Examining seasonality: Signal detection analysis on Bitcoin price and natural phenomena [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Nish_Keer_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "time-series",
@@ -3385,7 +3410,9 @@
   "section": "hs",
   "citation_html": "Mazzoleni, A., Raghavendra Rao, I., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Impact of geomagnetic storms on the U.S. electrical grid (2015–2023) [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Alessandro_Ishaan_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "climate"
@@ -3396,7 +3423,9 @@
   "section": "hs",
   "citation_html": "Lolla, H., Sharma, E., Lin, A., &amp; <strong>Marsellos</strong>, A. E. (2024, October 22). Identifying and predicting the effect of sunspot numbers on global temperatures and climate change [Conference presentation abstract]. Hofstra University Conference 2024, Hofstra University Summer Search Research Program (HUSSRP), Hempstead, NY, United States.",
   "year": 2024,
-  "links": {},
+  "links": {
+   "poster": "HUSSRP_posters/Poster_Lolla_Sharma_Lin_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "climate"
