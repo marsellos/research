@@ -2944,7 +2944,10 @@
   "section": "hs",
   "citation_html": "Pasumarthi, S., <strong>Marsellos</strong>, A.E., 2026. Filtering Electroencephalogram Data Using R: A Study on Patients with Seizures. 2026 IEEE 14th International Conference on Healthcare Informatics (ICHI), Minneapolis, MN, USA, June 1–3, 2026, p. 1317–1318. IEEE. doi: 10.1109/ICHI69079.2026.00274. <a href=\"https://doi.org/10.1109/ICHI69079.2026.00274\" class=\"uri\">https://doi.org/10.1109/ICHI69079.2026.00274</a>",
   "year": 2026,
-  "links": {},
+  "links": {
+   "doi": "https://doi.org/10.1109/ICHI69079.2026.00274",
+   "poster": "HUSSRP_posters/Poster_Sarayu_Pasumarthi_3ft_x_4ft.pdf"
+  },
   "students": "hs",
   "areas": [
    "biomedical"
