@@ -101,6 +101,12 @@
   "w": 2200,
   "h": 1547
  },
+ "posters/Tsakiri_2025_poster.pdf": {
+  "thumb": "assets/wall/thumb/Tsakiri_2025_poster.webp",
+  "full": "assets/wall/full/Tsakiri_2025_poster.webp",
+  "w": 2200,
+  "h": 1547
+ },
  "posters/Boddu_2025a_poster.pdf": {
   "thumb": "assets/wall/thumb/Boddu_2025a_poster.webp",
   "full": "assets/wall/full/Boddu_2025a_poster.webp",
@@ -173,6 +179,12 @@
   "w": 2200,
   "h": 1238
  },
+ "posters/Tsakiri_2023_poster.pdf": {
+  "thumb": "assets/wall/thumb/Tsakiri_2023_poster.webp",
+  "full": "assets/wall/full/Tsakiri_2023_poster.webp",
+  "w": 2200,
+  "h": 1238
+ },
  "posters/Maliszka_2021_poster.pdf": {
   "thumb": "assets/wall/thumb/Maliszka_2021_poster.webp",
   "full": "assets/wall/full/Maliszka_2021_poster.webp",
@@ -233,15 +245,39 @@
   "w": 2200,
   "h": 1650
  },
+ "posters/Tsakiri_2022_poster.pdf": {
+  "thumb": "assets/wall/thumb/Tsakiri_2022_poster.webp",
+  "full": "assets/wall/full/Tsakiri_2022_poster.webp",
+  "w": 2200,
+  "h": 1650
+ },
+ "posters/Marsellos_2022_poster.pdf": {
+  "thumb": "assets/wall/thumb/Marsellos_2022_poster.webp",
+  "full": "assets/wall/full/Marsellos_2022_poster.webp",
+  "w": 2200,
+  "h": 1650
+ },
  "posters/Achek_2019_poster.pdf": {
   "thumb": "assets/wall/thumb/Achek_2019_poster.webp",
   "full": "assets/wall/full/Achek_2019_poster.webp",
   "w": 2200,
   "h": 1238
  },
+ "posters/Tsakiri_2019_poster.pdf": {
+  "thumb": "assets/wall/thumb/Tsakiri_2019_poster.webp",
+  "full": "assets/wall/full/Tsakiri_2019_poster.webp",
+  "w": 2200,
+  "h": 1650
+ },
  "posters/Roscoe_2019_poster.pdf": {
   "thumb": "assets/wall/thumb/Roscoe_2019_poster.webp",
   "full": "assets/wall/full/Roscoe_2019_poster.webp",
+  "w": 2200,
+  "h": 1650
+ },
+ "posters/Marsellos_2019_poster.pdf": {
+  "thumb": "assets/wall/thumb/Marsellos_2019_poster.webp",
+  "full": "assets/wall/full/Marsellos_2019_poster.webp",
   "w": 2200,
   "h": 1650
  },

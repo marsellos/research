@@ -1,6 +1,7 @@
 // Wall of Student Research (wall.qmd).
-// Posters come from the publications database: every student record with a
-// poster link. Images (thumbnail, full-screen view, pixel size) come from
+// Posters come from the publications database: every record with a poster
+// link. Student posters show by default; faculty-led posters (students = null,
+// a faculty member is first author) appear only under their own button. Images (thumbnail, full-screen view, pixel size) come from
 // data/poster_wall.json, written by scripts/build_poster_wall.py. A poster
 // without images yet is simply left off the wall until that script is run.
 
@@ -8,8 +9,15 @@
   const LEVELS = {
     hs: "High school",
     university: "University",
-    both: "High school and university"
+    both: "High school and university",
+    faculty: "Faculty-led"
   };
+  // Level buttons: key, label. "students" is the default view, matching the
+  // page title; "faculty" is styled apart so it reads as a separate collection.
+  const LEVEL_CHIPS = [
+    ["students", "Student posters"], ["hs", "High school"], ["university", "University"],
+    ["faculty", "Faculty-led"], ["all", "All posters"]
+  ];
   const ROW_H = window.innerWidth < 640 ? 120 : 190; // target row height, px
 
   const wall = document.getElementById("poster-wall");
@@ -20,7 +28,7 @@
   const boxCap = box.querySelector(".wl-caption");
 
   let all = [], shown = [], current = -1;
-  const filter = { level: "all", year: "all" };
+  const filter = { level: "students", year: "all" };
 
   const plain = html => {
     const d = document.createElement("div");
@@ -30,8 +38,9 @@
 
   // "Pasumarthi, S., Marsellos, A.E., 2026. Title here. Venue..." gives the
   // author list and the title; "... (2026, May). Title." occurs too. The first
-  // author who is not Marsellos is the student named on the tile.
-  function parseCitation(text) {
+  // author who is not Marsellos is the student named on the tile; on a
+  // faculty-led poster the first author is named, whoever it is.
+  function parseCitation(text, faculty) {
     const y = text.match(/\(?\b(19|20)\d\d[a-z]?(,[^)]*)?\)?\.\s*/);
     const authors = y ? text.slice(0, y.index) : "";
     const rest = y ? text.slice(y.index + y[0].length) : text;
@@ -41,7 +50,7 @@
       .replace(/<DOT>/g, ".");
     const surnames = authors.split(/,|&/)
       .map(a => a.replace(/(\s*[A-Z]\.\s*-?)+$/, "").trim())   // drop initials
-      .filter(a => a && !/^([A-Z]\.?\s*)+$/.test(a) && !/^Marsellos$/i.test(a));
+      .filter(a => a && !/^([A-Z]\.?\s*)+$/.test(a) && (faculty || !/^Marsellos$/i.test(a)));
     return { title: title.replace(/[.]$/, ""), student: surnames[0] || "" };
   }
 
@@ -52,10 +61,11 @@
     const seen = new Set();
     for (const p of pubs) {
       const poster = p.links && p.links.poster;
-      if (!poster || !LEVELS[p.students] || !imgs[poster] || seen.has(poster)) continue;
+      const level = p.students || "faculty";
+      if (!poster || !LEVELS[level] || !imgs[poster] || seen.has(poster)) continue;
       seen.add(poster);
-      const c = parseCitation(plain(p.citation_html));
-      all.push(Object.assign({ pub: p, poster: poster }, imgs[poster], c));
+      const c = parseCitation(plain(p.citation_html), level === "faculty");
+      all.push(Object.assign({ pub: p, poster: poster, level: level }, imgs[poster], c));
     }
     all.sort((a, b) => (b.pub.year || 0) - (a.pub.year || 0));
     buildFilters();
@@ -67,7 +77,7 @@
   function chip(group, value, label) {
     const b = document.createElement("button");
     b.type = "button";
-    b.className = "wall-chip";
+    b.className = "wall-chip" + (value === "faculty" ? " wall-chip-faculty" : "");
     b.textContent = label;
     b.setAttribute("aria-pressed", String(filter[group] === value));
     b.addEventListener("click", () => {
@@ -81,7 +91,7 @@
 
   function buildFilters() {
     const groups = [
-      ["level", "Level", [["all", "All levels"], ["hs", "High school"], ["university", "University"]]],
+      ["level", "Show", LEVEL_CHIPS],
       ["year", "Year", [["all", "All years"]].concat(
         [...new Set(all.map(x => x.pub.year))].sort((a, b) => b - a).map(y => [String(y), String(y)]))]
     ];
@@ -101,8 +111,11 @@
   }
 
   function matches(x) {
-    const s = x.pub.students;
-    const levelOk = filter.level === "all" || s === filter.level || s === "both";
+    const s = x.level, f = filter.level;
+    const levelOk = f === "all" ||
+      (f === "students" && s !== "faculty") ||
+      (f === "faculty" && s === "faculty") ||
+      s === f || (s === "both" && (f === "hs" || f === "university"));
     const yearOk = filter.year === "all" || String(x.pub.year) === filter.year;
     return levelOk && yearOk;
   }
@@ -121,7 +134,7 @@
       b.innerHTML =
         `<img src="${x.thumb}" alt="" loading="lazy" style="aspect-ratio:${x.w}/${x.h}">` +
         `<span class="wall-tile-cap"><strong>${x.student}</strong> ${x.pub.year}` +
-        ` <em>${LEVELS[x.pub.students]}</em></span>`;
+        ` <em>${LEVELS[x.level]}</em></span>`;
       b.addEventListener("click", () => open(i));
       wall.appendChild(b);
     });
@@ -144,7 +157,7 @@
       return `<a href="${x.pub.links[k]}" target="_blank" rel="noopener">${label}</a>`;
     }).join("");
     boxCap.innerHTML =
-      `<span class="wl-level">${LEVELS[x.pub.students]} research &middot; ${current + 1} of ${shown.length}</span>` +
+      `<span class="wl-level">${LEVELS[x.level]} research &middot; ${current + 1} of ${shown.length}</span>` +
       `<span class="wl-cite">${x.pub.citation_html}</span>` +
       `<span class="wl-links">${links}</span>`;
     // Warm the neighbours so the arrow keys feel instant.
