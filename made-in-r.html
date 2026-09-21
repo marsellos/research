@@ -178,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Students in my group analyse their data in R or in Python, whichever suits the project. Each clip below is a published student project, re-run from the student’s own data and method. The six projects shown so far were all made in R. Every map and graph on screen is real R output, and every number was checked against the student’s poster. The students are co-authors of the work, and the full citation closes each clip.</p>
-<p>The clips are silent and run for about twenty seconds each.</p>
+<p>The clips are silent and run for about twenty seconds each. Each one plays once as it comes into view; point at a clip, or tap it, to play it again.</p>
 <style>
 .mir-card { border:1px solid #d9dee7; border-radius:12px; padding:1rem; height:100%; background:#fff; }
 .mir-card video { width:100%; border-radius:8px; background:#0d1626; display:block; }
@@ -190,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="grid" style="gap:1.5rem;margin:1rem 0 2rem">
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video muted="" loop="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/meny.jpg" aria-label="Clip: one year of earthquakes in and around New York State, from the MENY live monitoring app">
+    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/meny.jpg" aria-label="Clip: one year of earthquakes in and around New York State, from the MENY live monitoring app">
       <source src="assets/made_in_r/meny.mp4" type="video/mp4"></video>
     <h3 class="anchored">Monitoring Earthquakes in New York (MENY)</h3>
     <p>A live earthquake map of the New York region, built with
@@ -205,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video muted="" loop="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/belitung.jpg" aria-label="Clip: land and inland water change on Belitung Island, Indonesia, 1990 to 2024">
+    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/belitung.jpg" aria-label="Clip: land and inland water change on Belitung Island, Indonesia, 1990 to 2024">
       <source src="assets/made_in_r/belitung.mp4" type="video/mp4"></video>
     <h3 class="anchored">Is the sea eating away Belitung Island?</h3>
     <p>Eight digitised outlines of the island, 1990 to 2024, measured with the
@@ -217,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video muted="" loop="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/rumson.jpg" aria-label="Clip: simulated flooding of Rumson, New Jersey, for 1 to 5 feet of sea-level rise">
+    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/rumson.jpg" aria-label="Clip: simulated flooding of Rumson, New Jersey, for 1 to 5 feet of sea-level rise">
       <source src="assets/made_in_r/rumson.mp4" type="video/mp4"></video>
     <h3 class="anchored">Which parts of Rumson, New Jersey, flood first?</h3>
     <p>A United States Geological Survey elevation model flooded foot by foot
@@ -229,7 +229,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video muted="" loop="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/heatwaves.jpg" aria-label="Clip: marine heatwaves in the Northwest Atlantic, 1982 to 2022">
+    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/heatwaves.jpg" aria-label="Clip: marine heatwaves in the Northwest Atlantic, 1982 to 2022">
       <source src="assets/made_in_r/heatwaves.mp4" type="video/mp4"></video>
     <h3 class="anchored">More heatwaves at sea?</h3>
     <p>Forty-one years of daily sea surface temperature, analysed with the
@@ -241,7 +241,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video muted="" loop="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/sunspots.jpg" aria-label="Clip: wavelet analysis of monthly sunspot numbers, 1818 to 2026">
+    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/sunspots.jpg" aria-label="Clip: wavelet analysis of monthly sunspot numbers, 1818 to 2026">
       <source src="assets/made_in_r/sunspots.mp4" type="video/mp4"></video>
     <h3 class="anchored">Is the 11-year sunspot cycle steady?</h3>
     <p>Two centuries of sunspot numbers and a wavelet analysis with the
@@ -253,7 +253,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video muted="" loop="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/quartz.jpg" aria-label="Clip: rose diagram of 323 quartz crystal directions in a quartzite thin section">
+    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/quartz.jpg" aria-label="Clip: rose diagram of 323 quartz crystal directions in a quartzite thin section">
       <source src="assets/made_in_r/quartz.mp4" type="video/mp4"></video>
     <h3 class="anchored">Do the crystals in a deformed rock point the same way?</h3>
     <p>323 quartz crystals traced on a microscope photograph, then a rose
@@ -265,6 +265,34 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
 </div>
+
+<script>
+// Each clip plays once when it first comes into view, then stops on its last
+// frame. Pointing at a finished clip plays it again; on phones, a tap on the
+// play control does the same. Readers who ask for reduced motion get the
+// still frame and start clips themselves.
+(function () {
+  var clips = document.querySelectorAll('video.mir-clip');
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function playFromStart(v) {
+    if (!v.paused && !v.ended) return;          // already playing: leave it
+    if (v.ended) v.currentTime = 0;
+    v.muted = true;
+    var p = v.play();
+    if (p && p.catch) p.catch(function () {});  // browser refused: stay still
+  }
+  clips.forEach(function (v) {
+    v.addEventListener('mouseenter', function () { playFromStart(v); });
+  });
+  if (reduce || !('IntersectionObserver' in window)) return;
+  var seen = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { playFromStart(e.target); seen.unobserve(e.target); }
+    });
+  }, { threshold: 0.6 });
+  clips.forEach(function (v) { seen.observe(v); });
+})();
+</script>
 <section id="learn-r-at-hofstra" class="level2">
 <h2 class="anchored" data-anchor-id="learn-r-at-hofstra">Learn R at Hofstra</h2>
 <p>The course <strong>Intro to R for Geoscience and Sustainability (Earth Data Analytics)</strong>, 2 credits, starts from the first line of code and works with real climate, groundwater, air quality and map data. No coding experience is needed, and all course materials are provided free. It is open to undergraduate and graduate students.</p>
