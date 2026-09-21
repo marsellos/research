@@ -46,7 +46,7 @@
     "href": "research-university.html#the-new-r-course-in-half-a-minute",
     "title": "Research with University Students",
     "section": "The new R course in half a minute",
-    "text": "The new R course in half a minute\n\n  \n    \n      \n    \n  \n  \n    Thirty seconds on why the course exists: the question seniors ask\n    every year, and the map a few lines of R can draw with free software you\n    keep after you graduate. No coding experience needed, and all course\n    materials are provided free.\n    To register, use the listings above, or write to\n    antonios.marsellos@hofstra.edu\n    and I will help you enroll."
+    "text": "The new R course in half a minute\n\n  \n    \n      \n    \n  \n  \n    Thirty seconds on why the course exists: the question seniors ask\n    every year, and the map a few lines of R can draw with free software you\n    keep after you graduate. No coding experience needed, and all course\n    materials are provided free.\n    To register, use the listings above, or write to\n    antonios.marsellos@hofstra.edu\n    and I will help you enroll.\n  \n\nSee what students found with it: Student Research, Made in R and Python, short clips of published student projects re-run in R."
   },
   {
     "objectID": "research-university.html#how-to-get-started",
@@ -133,6 +133,20 @@
     "text": "My research develops data analytics, artificial intelligence, and computational methods for extracting knowledge from complex spatial and temporal data. The methods come first; sustainability and the environment, earthquakes, volcanoes, floods, climate, biomedical signals, and markets are the applications. Publications often belong to several areas, and every count below links to the filtered publication list.\nI teach and advise in the Department of Geology, Environment, and Sustainability at Hofstra University, and students majoring in Sustainability are welcome in every one of these areas. The first area below gathers the environmental and sustainability work: water quality, air quality, flooding, coastal change, emissions, and the data skills that turn those records into evidence. The same skills are taught step by step in my 2026 book R for Earth and Sustainability Data Analytics, written with Dr. Katerina Tsakiri.\nI always keep open space for new topics. If you are working on a sustainability question that is not listed here, or you want to bring your own, write to me and we can shape a project around it.\n\nLoading research areas…"
   },
   {
+    "objectID": "made-in-r.html",
+    "href": "made-in-r.html",
+    "title": "Student Research, Made in R and Python",
+    "section": "",
+    "text": "Students in my group analyse their data in R or in Python, whichever suits the project. Each clip below is a published student project, re-run from the student’s own data and method. The six projects shown so far were all made in R. Every map and graph on screen is real R output, and every number was checked against the student’s poster. The students are co-authors of the work, and the full citation closes each clip.\nThe clips are silent and run for about twenty seconds each."
+  },
+  {
+    "objectID": "made-in-r.html#learn-r-at-hofstra",
+    "href": "made-in-r.html#learn-r-at-hofstra",
+    "title": "Student Research, Made in R and Python",
+    "section": "Learn R at Hofstra",
+    "text": "Learn R at Hofstra\nThe course Intro to R for Geoscience and Sustainability (Earth Data Analytics), 2 credits, starts from the first line of code and works with real climate, groundwater, air quality and map data. No coding experience is needed, and all course materials are provided free. It is open to undergraduate and graduate students.\nIn Fall 2026 the course has no catalog listing of its own, so it registers under these two codes:\n\nUndergraduate students: INDEPENDENT SPECIAL PROJECTS 152-01\nGraduate students: GRAD IND STUDY IN SUSTNABILITY 251-02\n\nHofstra’s last day to add a Fall 2026 course is September 27, 2026. Write to Dr. Marsellos (antonios.e.marsellos@hofstra.edu) or to Jilly Duffy in the department office (jilly.duffy@hofstra.edu), and either of us will guide you through registration. After that date, write to be kept informed about a possible next run. Office: Gittleson Hall (GTLSN), Room 138.\nMore student work: the Poster Wall, and the full lists for university and high school researchers."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -214,7 +228,7 @@
     "href": "research-highschool.html#posters-papers-by-high-school-students",
     "title": "Research with High School Students",
     "section": "Posters & papers by high school students",
-    "text": "Posters & papers by high school students\nEvery poster below was researched, written, and presented by a high school student in the group. Click poster to open the full PDF.\n\nLoading…"
+    "text": "Posters & papers by high school students\nEvery poster below was researched, written, and presented by a high school student in the group. Click poster to open the full PDF.\nTwo of the 2026 projects can also be watched as short clips, re-run in R from the students’ own data: Student Research, Made in R and Python.\n\nLoading…"
   },
   {
     "objectID": "research-highschool.html#interested-in-joining",
