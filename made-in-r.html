@@ -178,10 +178,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Students in my group analyse their data in R or in Python, whichever suits the project. Each clip below is a published student project, re-run from the student’s own data and method. The six projects shown so far were all made in R. Every map and graph on screen is real R output, and every number was checked against the student’s poster. The students are co-authors of the work, and the full citation closes each clip.</p>
-<p>The clips are silent and run for about twenty seconds each. Each one plays once as it comes into view; point at a clip, or tap it, to play it again.</p>
+<p>The clips are silent and run for about twenty seconds each. Each one plays once as it comes into view; point at a clip to play it again. Click or tap a clip to watch it full screen, and click again to return.</p>
 <style>
 .mir-card { border:1px solid #d9dee7; border-radius:12px; padding:1rem; height:100%; background:#fff; }
-.mir-card video { width:100%; border-radius:8px; background:#0d1626; display:block; }
+.mir-card video { width:100%; border-radius:8px; background:#0d1626; display:block; cursor:zoom-in; }
+.mir-card video:focus-visible { outline:3px solid #276DC3; outline-offset:3px; }
+.mir-card video:fullscreen { cursor:zoom-out; border-radius:0; object-fit:contain; background:#000; }
 .mir-card h3 { font-size:1.15rem; margin:0.9rem 0 0.4rem; }
 .mir-card p { margin-bottom:0.5rem; }
 .mir-cite { font-size:0.92rem; color:#44506a; }
@@ -190,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="grid" style="gap:1.5rem;margin:1rem 0 2rem">
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/meny.jpg" aria-label="Clip: one year of earthquakes in and around New York State, from the MENY live monitoring app">
+    <video class="mir-clip" muted="" playsinline="" preload="metadata" tabindex="0" poster="assets/made_in_r/meny.jpg" aria-label="Clip: one year of earthquakes in and around New York State, from the MENY live monitoring app">
       <source src="assets/made_in_r/meny.mp4" type="video/mp4"></video>
     <h3 class="anchored">Monitoring Earthquakes in New York (MENY)</h3>
     <p>A live earthquake map of the New York region, built with
@@ -205,7 +207,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/belitung.jpg" aria-label="Clip: land and inland water change on Belitung Island, Indonesia, 1990 to 2024">
+    <video class="mir-clip" muted="" playsinline="" preload="metadata" tabindex="0" poster="assets/made_in_r/belitung.jpg" aria-label="Clip: land and inland water change on Belitung Island, Indonesia, 1990 to 2024">
       <source src="assets/made_in_r/belitung.mp4" type="video/mp4"></video>
     <h3 class="anchored">Is the sea eating away Belitung Island?</h3>
     <p>Eight digitised outlines of the island, 1990 to 2024, measured with the
@@ -217,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/rumson.jpg" aria-label="Clip: simulated flooding of Rumson, New Jersey, for 1 to 5 feet of sea-level rise">
+    <video class="mir-clip" muted="" playsinline="" preload="metadata" tabindex="0" poster="assets/made_in_r/rumson.jpg" aria-label="Clip: simulated flooding of Rumson, New Jersey, for 1 to 5 feet of sea-level rise">
       <source src="assets/made_in_r/rumson.mp4" type="video/mp4"></video>
     <h3 class="anchored">Which parts of Rumson, New Jersey, flood first?</h3>
     <p>A United States Geological Survey elevation model flooded foot by foot
@@ -229,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/heatwaves.jpg" aria-label="Clip: marine heatwaves in the Northwest Atlantic, 1982 to 2022">
+    <video class="mir-clip" muted="" playsinline="" preload="metadata" tabindex="0" poster="assets/made_in_r/heatwaves.jpg" aria-label="Clip: marine heatwaves in the Northwest Atlantic, 1982 to 2022">
       <source src="assets/made_in_r/heatwaves.mp4" type="video/mp4"></video>
     <h3 class="anchored">More heatwaves at sea?</h3>
     <p>Forty-one years of daily sea surface temperature, analysed with the
@@ -241,7 +243,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/sunspots.jpg" aria-label="Clip: wavelet analysis of monthly sunspot numbers, 1818 to 2026">
+    <video class="mir-clip" muted="" playsinline="" preload="metadata" tabindex="0" poster="assets/made_in_r/sunspots.jpg" aria-label="Clip: wavelet analysis of monthly sunspot numbers, 1818 to 2026">
       <source src="assets/made_in_r/sunspots.mp4" type="video/mp4"></video>
     <h3 class="anchored">Is the 11-year sunspot cycle steady?</h3>
     <p>Two centuries of sunspot numbers and a wavelet analysis with the
@@ -253,7 +255,7 @@ ul.task-list li input[type="checkbox"] {
   </div></div>
 
   <div class="g-col-12 g-col-md-6 g-col-xl-4"><div class="mir-card">
-    <video class="mir-clip" muted="" playsinline="" controls="" preload="metadata" poster="assets/made_in_r/quartz.jpg" aria-label="Clip: rose diagram of 323 quartz crystal directions in a quartzite thin section">
+    <video class="mir-clip" muted="" playsinline="" preload="metadata" tabindex="0" poster="assets/made_in_r/quartz.jpg" aria-label="Clip: rose diagram of 323 quartz crystal directions in a quartzite thin section">
       <source src="assets/made_in_r/quartz.mp4" type="video/mp4"></video>
     <h3 class="anchored">Do the crystals in a deformed rock point the same way?</h3>
     <p>323 quartz crystals traced on a microscope photograph, then a rose
@@ -268,8 +270,7 @@ ul.task-list li input[type="checkbox"] {
 
 <script>
 // Each clip plays once when it first comes into view, then stops on its last
-// frame. Pointing at a finished clip plays it again; on phones, a tap on the
-// play control does the same. Readers who ask for reduced motion get the
+// frame. Pointing at a finished clip plays it again. Readers who ask for reduced motion get the
 // still frame and start clips themselves.
 (function () {
   var clips = document.querySelectorAll('video.mir-clip');
@@ -281,8 +282,26 @@ ul.task-list li input[type="checkbox"] {
     var p = v.play();
     if (p && p.catch) p.catch(function () {});  // browser refused: stay still
   }
+  // One click (or tap, or Enter) opens a clip full screen and plays it; the next
+  // click returns to the page. iPhones only allow the system video player.
+  function fsElement() { return document.fullscreenElement || document.webkitFullscreenElement; }
+  function toggleFull(v) {
+    if (fsElement()) {
+      (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+    } else if (v.requestFullscreen || v.webkitRequestFullscreen) {
+      var r = (v.requestFullscreen || v.webkitRequestFullscreen).call(v);
+      if (r && r.catch) r.catch(function () {});
+      playFromStart(v);
+    } else if (v.webkitEnterFullscreen) {
+      v.webkitEnterFullscreen(); playFromStart(v);
+    }
+  }
   clips.forEach(function (v) {
-    v.addEventListener('mouseenter', function () { playFromStart(v); });
+    v.addEventListener('mouseenter', function () { if (!fsElement()) playFromStart(v); });
+    v.addEventListener('click', function (e) { e.preventDefault(); toggleFull(v); });
+    v.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleFull(v); }
+    });
   });
   if (reduce || !('IntersectionObserver' in window)) return;
   var seen = new IntersectionObserver(function (entries) {
