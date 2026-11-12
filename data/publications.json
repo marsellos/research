@@ -2911,9 +2911,12 @@
  {
   "id": "book-5",
   "section": "book",
-  "citation_html": "<strong>Marsellos</strong>, A.E., 1999. Hellenic-Kytherian diaspora phone book. <strong>Marsellos</strong>, A.E. Press.",
+  "citation_html": "<strong>Marsellos</strong>, A.E., 1999. Hellenic-Kytherian diaspora phone book (Οδηγός των Απανταχού Κυθηρίων / Telephone Directory of the Kytherian Diaspora), an edition of the newspaper Κυθηραϊκή Ιδέα, 384 pp. <strong>Marsellos</strong>, A.E. Press.",
   "year": 1999,
-  "links": {},
+  "links": {
+   "excerpt": "pdfs/Marsellos_1999_excerpt.pdf",
+   "cover": "assets/Marsellos_1999_cover.jpg"
+  },
   "students": null,
   "areas": []
  },
